@@ -22,11 +22,22 @@ async def respond(query: str):
 
     # Stream through the workflow
     response_text = ""
+    elements = []
     for event in workflow.stream(dict_inputs, limit):
         if "output" in event:
-            response = event['output']["output_response"]["content"]
+            string_obj = event['output']["output_response"]["content"]
+            json_obj = json.loads(string_obj)
+            response = json_obj["response"]
             response_text += response
 
     # Send the AI response back to the user
-    await cl.Message(content=response_text).send()
-    #await cl.Message(content=response).send()
+            if json_obj["attachment"]:
+                elements = [
+                    cl.File(
+                        name= json_obj["filename"],
+                        url = json_obj["attachment"],
+                        display="inline",
+                    ),
+                ]
+    #await cl.Message(content=response_text).send()
+    await cl.Message(content = response_text, elements=elements).send()

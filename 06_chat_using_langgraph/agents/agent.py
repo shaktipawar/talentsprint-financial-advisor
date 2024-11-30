@@ -1,9 +1,8 @@
 import json
-from termcolor import colored
 from model import get_open_ai, get_open_ai_json
 from state import AgentGraphState 
-
 class Agent:
+
     def __init__(self, state : AgentGraphState):
         self.state = state
         self.model = "gpt-4o-mini"
@@ -42,10 +41,6 @@ class Agent:
         
         return next_agent, message, response
 
-    def print_agents_output(self, agent_name, response, color):
-        print(colored(f"{agent_name} : {response}", color))
-        print(colored("------", color))
-
     def updateflow(self, agent_name):
         if self.agentflow == "": 
             self.agentflow += f"{agent_name} " 
@@ -55,3 +50,6 @@ class Agent:
     def convert_to_json(self, content):
         json_obj = json.loads(content)
         return json_obj
+    
+
+    

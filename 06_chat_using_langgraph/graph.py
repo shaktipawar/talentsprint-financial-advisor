@@ -11,7 +11,7 @@ from agents.mf_product_agent import MF_Products_Agent
 from agents.reviewer_agent import Reviewer_Agent
 from agents.output_agent import Output_Agent
 from agents.endnode_agent import EndNodeAgent
-from state import AgentGraphState, get_graph_state, state
+from state import AgentGraphState, state
 
 
 def create_graph():
@@ -23,40 +23,35 @@ def create_graph():
     graph.add_node(
         "router",
         lambda state: Router_Agent(state = state).invoke(
-            question = state["question"],
-            reviewer_response = lambda : get_graph_state(state = state, filter = "latest", state_key = "reviewer_response")
+            question = state["question"]
         ))
 
     # MF FAQ
     graph.add_node(
         "mf_faq",
         lambda state: MF_FAQ_Agent(state = state).invoke(
-            question = state["question"],
-            reviewer_response = lambda : get_graph_state(state = state, filter = "latest", state_key = "reviewer_response")
+            question = state["question"]
         ))
     
     # MF PRODUCTS
     graph.add_node(
         "mf_products",
         lambda state: MF_Products_Agent(state = state).invoke(
-            question = state["question"],
-            reviewer_response = lambda : get_graph_state(state = state, filter = "latest", state_key = "reviewer_response")
+            question = state["question"]
         ))
     
     # REVIEWER
     graph.add_node(
         "reviewer",
         lambda state: Reviewer_Agent(state = state).invoke(
-            question = state["question"],
-            reviewer_response = lambda : get_graph_state(state = state, filter = "latest", state_key = "reviewer_response")
+            question = state["question"]
         ))
     
     # OUTPUT
     graph.add_node(
         "output",
         lambda state: Output_Agent(state = state).invoke(
-            question = state["question"],
-            reviewer_response = lambda : get_graph_state(state = state, filter = "latest", state_key = "reviewer_response")
+            question = state["question"]
         ))
 
     # END
