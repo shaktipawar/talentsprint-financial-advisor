@@ -1,0 +1,1538 @@
+[
+    {
+        "Question": "What is a Mutual Fund?",
+        "Answer": "Mutual fund is a mechanism for pooling money by issuing units to the investors and investing\ninvestors funds in securities in accordance with objectives as disclosed in offer document.\nInvestments in securities are spread across a wide cross-section of industries and sectors and\nthus the risk is diversified because all stocks may not move in the same direction in the same\nproportion at the same time. Mutual funds issue units to the investors in accordance with quantum\nof money invested by them. Investors of mutual funds are known as unitholders.\nThe profits or losses are shared by investors in proportion to their investments. Mutual funds\nnormally come out with a number of schemes which are launched from time to time with different\ninvestment objectives. A mutual fund is required to be registered with Securities and Exchange\nBoard of India (SEBI) before it can collect funds from the public."
+    },
+    {
+        "Question": "What is the history of Mutual Funds in India and role of SEBI in mutual funds industry?",
+        "Answer": "Unit Trust of India was the first mutual fund set up in India in the year 1963. In late 1980s,\nGovernment allowed public sector banks and institutions to set up mutual funds. In the year 1992,\nSecurities and Exchange Board of India (SEBI) Act was passed. The objectives of SEBI are to\nprotect the interest of investors in securities and to promote the development of and to regulate\nthe securities market.\nAs far as mutual funds are concerned, SEBI formulates policies, regulates and supervises mutual\nfunds with an aim to protect the interest of the investors. SEBI notified the regulations for mutual\nfunds in 1993. Thereafter, mutual funds sponsored by private sector entities were allowed to enter\nthe capital market. The regulations were fully revised in 1996 and have been amended thereafter\nfrom time to time. SEBI also issues directions through circulars to mutual funds from time to time\nto protect the interests of investors.\nAll mutual funds whether promoted by public sector or private sector entities, including those\npromoted by foreign entities are governed by the same set of Regulations. There is no distinction\nin regulatory requirements for these mutual funds and all are subject to monitoring and inspections\nby SEBI. "
+    },
+    {
+        "Question": "How is a mutual fund set up?",
+        "Answer": "A mutual fund is set up in the form of a trust, which has sponsor, trustees, Asset Management\nCompany (AMC) and custodian. The trust is established by a sponsor or more than one sponsor\nwho is like promoter of a company. The trustees of the mutual fund hold its property for the benefit\nof the unitholders. AMC approved by SEBI manages the funds by making investments in various\ntypes of securities. Custodian, who is required to be registered with SEBI, holds the securities of\nvarious schemes of the fund in its custody. The trustees are vested with the general power of\nsupervision and direction over AMC. They monitor the performance and compliance of SEBI\nRegulations by the mutual fund.\nSEBI Regulations require that at least two-thirds of the directors of trustee company should be\nindependent and should not be associated with the sponsors in any manner. Further, fifty per cent\nof the directors in the board of AMC should be independent and should not be associated with\nsponsor or its subsidiaries or the trustees in any manner.\nAll mutual funds are required to be registered with SEBI before they launch any scheme."
+    },
+    {
+        "Question": "What is Net Asset Value (NAV) of a scheme?",
+        "Answer": "NAV is the unit price of a mutual fund scheme. The performance of a particular scheme of a mutual\nfund is denoted by Net Asset Value (NAV). NAV indicates the price at which investors buy or\nredeem mutual fund units.\nNAV of a scheme is determined by dividing the net assets (Total Asset \u2013 Total Liabilities) of the\nscheme by the total number of outstanding units on any particular date. For example, if the total\nasset of a mutual fund scheme is INR 200 lakh and total liabilities is INR 10 lakh and 10 lakh units\nare outstanding, then the NAV per unit of the fund is calculated as under:\nNet asset = Total Asset \u2013 Total Liabilities\n = INR 200 lakh \u2013 INR 10 lakh\n = INR 190 lakh\nNAV = Net asset/total outstanding units\n = INR 19 (i.e.190 lakh/10 lakh).\nNAV of a fund changes every day as a result of changes in the market price of the securities that\nform a part of the portfolio. Therefore, NAV is determined on a daily basis and required to be\ndisclosed by the mutual funds on a daily basis. NAV of schemes has to be updated in accordance\nwith time lines mentioned under:\nT = date of transaction in mutual fund units in India"
+    },
+    {
+        "Question": "What is cut off timing and its role in determining the applicable NAV for transactions\nin Mutual Fund scheme (s)?",
+        "Answer": "The purchase and redemption are done at the applicable NAV. In order to ensure fairness to\ninvestors, SEBI has prescribed cut-off timings which are uniformly applicable for all mutual funds."
+    },
+    {
+        "Question": "Open-ended Fund/Scheme",
+        "Answer": "An open-ended fund or scheme is one that is available for subscription and repurchase on a\ncontinuous basis. These schemes do not have a fixed maturity period. Investors can conveniently buy\nand sell units at Net Asset Value (NAV) per unit which is declared on a daily basis. The key feature of\nopen-ended scheme is liquidity."
+    },
+    {
+        "Question": "Close-ended Fund/Scheme",
+        "Answer": "A close-ended fund or scheme is one where the period of maturity of the scheme is fixed and the\nsame is specified in the offer documents e.g. KIM, SID at the time of launch of the scheme. The fund\nis open for subscription only during a specified period at the time of launch of the scheme. Investors\ncan invest in the scheme at the time of the new fund offer and thereafter they can buy or sell the units\nof the scheme on the stock exchanges where the units are listed. In order to provide an exit route to\nthe investors, some close-ended funds give an option of selling back the units to the mutual fund\nthrough periodic repurchase at NAV related prices and the same options are disclosed in the offer\nDocuments. "
+    },
+    {
+        "Question": "Growth/Equity Oriented Scheme",
+        "Answer": "The aim of growth funds is to provide capital appreciation over the medium to long- term. Such\nschemes normally invest a major part of their corpus in equities. Such funds have comparatively\nhigh risks. These schemes provide different options to the investors like dividend option, growth,\netc. and the investors may choose an option depending on their preferences. The investors must\nindicate the option in the application form. The mutual funds also allow the investors to change\nthe options at a later date. Growth schemes are good for investors having a long-term outlook\nseeking appreciation over a period of time."
+    },
+    {
+        "Question": "Income/Debt Oriented Scheme",
+        "Answer": "The aim of income funds is to provide regular and steady income to investors. Such schemes\ngenerally invest in fixed income securities such as bonds, corporate debentures, Government\nsecurities and money market instruments. Such funds are less risky compared to equity schemes.\nHowever, opportunities of capital appreciation are also limited in such funds. The NAVs of such\nfunds are affected because of change in interest rates in the country. If the interest rates fall,\nNAVs of such funds are likely to increase in the short run and vice versa. However, long term\ninvestors may not bother about these fluctuations."
+    },
+    {
+        "Question": "Balanced/Hybrid Scheme",
+        "Answer": "The aim of balanced schemes is to provide both growth and regular income as such schemes\ninvest both in equities and fixed income securities in the proportion indicated in their offer\ndocuments. These are appropriate for investors looking for moderate growth. They generally\ninvest 40-60% in equity and debt instruments. These funds are also affected because of\nfluctuations in share prices in the stock markets. However, NAVs of such funds are likely to be\nless volatile compared to pure equity funds"
+    },
+    {
+        "Question": "Money Market or Liquid Schemes",
+        "Answer": "These schemes are also income schemes and their aim is to provide easy liquidity, preservation\nof capital and moderate income.\nThese schemes invest exclusively in short-term instruments such as treasury bills, certificates of\ndeposit, commercial paper and inter-bank call money, government securities, etc. Returns on\nthese schemes fluctuate much less compared with other funds. These funds are appropriate for\ncorporate and individual investors as a means to park their surplus funds for short periods."
+    },
+    {
+        "Question": "Gilt Funds",
+        "Answer": "These funds invest exclusively in government securities. Government securities have no default\nrisk. NAVs of these schemes also fluctuate due to change in interest rates and other economic\nfactors as is the case with income or debt oriented schemes."
+    },
+    {
+        "Question": "Index Funds",
+        "Answer": "Index Funds replicate the portfolio of a particular index such as the BSE Sensitive index (Sensex),\nNSE 50 index (Nifty), etc. These schemes invest in the securities in the same weightage\ncomprising of an index. NAVs of such schemes would rise or fall in accordance with the rise or\nfall in the index, though not exactly by the same percentage due to some factors known as\n\u201ctracking error\u201d in technical terms. Necessary disclosures in this regard are made in the offer\ndocument of the mutual fund scheme. The tracking error refers to the annualized standard\ndeviation of the difference in daily returns between the underlying index and the NAV of the Index.\nFor Index Fund in existence for a period of less than one year, the annualized standard deviation\nto be calculated based on available data."
+    },
+    {
+        "Question": "What are Sectoral fund and Thematic Funds?",
+        "Answer": "Sectoral fund invests in stocks belonging to specific sector of the economy, in order to take\nadvantages within the said sector. The examples of sectoral funds are: banking funds, Information\nTechnology (IT), Pharmaceuticals etc. These funds are launched to get the benefit from growth\nand performance of the particular sector. For example, technology sector would primarily invest\nin tech companies only. The returns in these funds are dependent on the performance of the\nrespective sectors/industry.\nThematic funds invest in stocks across a specific theme. These funds focus on specific themes\nor trends in the market. The themes can be based on economic trends, social changes,\ntechnological advancements etc. Examples of these funds are MNC funds, PSU (public sector\nunits) funds, energy funds. Compared to sectoral fund thematic funds are more broad-based, as\nthey pick companies and sectors united by an idea. For instance, an infrastructure theme fund\nwill invest in cement, power, steel, among other sectors. "
+    },
+    {
+        "Question": "Are there any mutual fund schemes launched with the objective to provide tax benefits?",
+        "Answer": "Yes, certain mutual fund schemes, known as Equity Linked Savings Schemes (ELSS) are eligible\nfor deduction under Section 80C of the Income Tax Act, 1961 (Old tax Regime). The provisions\nrelating to ELSS are governed by Equity Linked Saving Scheme, 2005 notified by Ministry of\nFinance. These schemes are growth oriented and invest pre-dominantly in equities. Their growth,\nopportunities and risks associated are like any equity-oriented scheme. Certain mutual fund\nretirement schemes have also been notified for tax benefit under section 80 C of the Income Tax\nAct, 1961.\nInvestors should note that the provisions relating to income tax deductions are governed by\nIncome tax act, 1961 and subject to continuous changes/amendments."
+    },
+    {
+        "Question": "What is a Fund of Funds (FoF) scheme?",
+        "Answer": "A scheme that invests primarily in other schemes of the same mutual fund or other mutual funds\nis known as a FoF scheme. A FoF scheme enables the investors to achieve greater diversification\nthrough one scheme. It spreads risks across a greater universe."
+    },
+    {
+        "Question": "What are Exchange Traded Funds (ETFs)?",
+        "Answer": "ETFs are mutual fund units that investors can buy or sell at the stock exchange. This is in contrast\nto a normal mutual fund unit that an investor buys or sells from the mutual fund (directly or through\na distributor). In the ETF structure, the mutual fund does not deal directly with investors or\ndistributors. Units are issued to a few designated large participants called Authorised Participants\n(APs). The APs provide buy and sell quotes for the ETFs on the stock exchange, which enable\ninvestors to buy and sell the ETFs at any given point of time when the stock markets are open for\ntrading.\nETFs therefore trade like stocks and experience price changes throughout the day as they are\nbought and sold. Buying and selling ETFs requires the investor to have demat and trading\naccount."
+    },
+    {
+        "Question": "What is a capital protection-oriented scheme?",
+        "Answer": "A capital protection-oriented scheme is typically a hybrid scheme that invests significantly in fixedincome securities and a part of its corpus in equities. These are close-ended schemes that come\nin tenors of fixed maturity e.g. three to five years.\nStructure of the scheme - Example\nIf the fund collects INR 100, it invests INR 80 in fixed-income securities and INR 20 in equities or\nequity related instruments. The money is invested in such a way that the INR 80 portion is\nexpected to grow to become INR 100 in three years (assuming that the scheme has a maturity\nperiod of three years). Thus, the aim is to preserve the INR 100 capital till maturity of the scheme.\nThus, the scheme is oriented towards protection of capital and not with guaranteed returns.\nFurther, the orientation towards protection of capital originates from the portfolio structure of the\nscheme and not from any bank guarantee or insurance cover. Investors are neither offered any\nguaranteed/indicated returns nor any guarantee on repayment of capital by the scheme."
+    },
+    {
+        "Question": "What is entry load and exit load in mutual funds?",
+        "Answer": "An entry load can be defined as the amount or fee paid by an investor upon entering a scheme.\nHowever, SEBI has abolished the practice of imposing entry loads on mutual funds. Hence,\ncurrently the entry load is no longer permitted.\nExit load is a fee or charge imposed on investors by a mutual fund when investors redeem/sell\ntheir units before a specified period. The purpose of exit load is to discourage short-term trading\nand to protect long-term investors from the potential adverse effects of short-term trading\nactivities.\nThe information about the load structure can be found in mutual fund\u2019s offer document or scheme\ninformation document (SID). Exit load is calculated as a percentage of NAV.\nSuppose a mutual fund scheme charged exit load of 1% for redemption within 90 days from the\ndate of purchase. Assume that you redeem 1000 units of a scheme before 90 days of purchase\nand NAV per unit is INR 50. The exit load will be = 1% X 1000 (numbers of units) X INR 50 (NAV\nper unit) = INR 500. This amount will be deducted from redemption proceeds and you will get\nredemption proceeds of INR 49500. "
+    },
+    {
+        "Question": "Can a mutual fund impose fresh load or increase the exit load beyond the level mentioned\nin the offer documents?",
+        "Answer": "Mutual funds cannot increase the exit load beyond the level mentioned in the offer document. Any\nchange in the load will be applicable only to prospective investments and not to the original\ninvestments. In case of imposition of fresh loads or increase in existing loads, the mutual funds\nare required to amend their offer documents."
+    },
+    {
+        "Question": "What is sale and repurchase/redemption price?",
+        "Answer": "The price or NAV a unit holder is charged while investing in an open-ended scheme is called sale\nprice.\nRepurchase or redemption price is the price or NAV at which an open-ended scheme purchases\nor redeems its units from the investors/unitholders. It may include exit load, if applicable."
+    },
+    {
+        "Question": "What is expense ratio?",
+        "Answer": "Expense ratio represents the annual fund operating expenses of a scheme, expressed as a\npercentage of the fund\u2019s daily net assets. Operating expenses of a scheme are administration,\nmanagement, advertising related expenses, etc.\nAn expense ratio of 1% per annum means that each year 1% of the fund\u2019s total assets will be\nused to cover expenses. Information on expense ratio that may be applicable to a scheme is\nmentioned in the offer document. Currently, in India, the expense ratio is fungible, i.e., there is no\nlimit on any particular type of allowed expense as long as the total expense ratio is within the\nprescribed limit. You may refer to regulation 52 of the SEBI (Mutual Funds) Regulations, 1996,\nfor limits on expense ratio."
+    },
+    {
+        "Question": "What are the various methods available to investors for investing in a scheme of a\nmutual fund?",
+        "Answer": "Investors can contact the agents and distributors of mutual funds who are spread all over the\ncountry for necessary information and application forms. Investors must ensure that they invest\nthrough Association of Mutual Funds in India (AMFI) registered distributors and that the distributor\nhas a valid AMFI Registration Number (ARN).\nInvestors can verify the registration status of a particular distributor whether he/she has been\nsuspended/terminated from doing mutual fund business at http://www.amfiindia.com/locate-thenearest-financial-advisor. An employee of a corporate distributor is also required to have an\nEmployee Unique Identification Number (EUIN).\nThe distributors are required to disclose all the commissions (in the form of trail commission or\nany other mode) payable to them for the different competing schemes of various mutual funds\nfrom amongst which the scheme is being recommended to the investor.\nForms can be deposited with mutual funds through the agents and distributors who provide such\nservices. These days, post offices and banks also distribute the units of mutual funds. However,\nthe investors may please note that the mutual fund schemes being marketed by banks and post\noffices should not be taken as their own schemes and there is no assurance of returns is given\nby them. The only role of banks and post offices is to help in distribution of mutual funds schemes\nto the investors.\nInvestors should not be carried away by commission/gifts, if any, given by agents/distributors for\ninvesting in a particular scheme.\nInvestors also have the option to invest directly with the mutual fund either by visiting the mutual\nfund branch or online through mutual fund website. In addition, the investors can also invest\nthrough MF central website/application. The details of MF Central may be accessed using\nhttps://mfcentral.com and MFCentral Mutual fund App. "
+    },
+    {
+        "Question": "When will the investor get statement of account after investing in a mutual fund and\nwhat is a consolidated account statement (CAS)?",
+        "Answer": "Mutual funds are required to dispatch statements of accounts within five working days from the\ndate of closure of the initial subscription of the scheme or from the date of receipt of the request\nfrom the investors/unitholders. Mutual fund shall issue units in dematerialized form within two\nworking days of the receipt of request from unit holder.\nAlso, mutual funds are required to send confirmation specifying the number of units allotted to the\ninvestor by way of email and/or SMS\u201fs to the investor\u2019s registered email address and/or\nmobile number as soon as possible but not later than five working days from the date of closure\nof the initial subscription list and/or from the date of receipt of the request from the\ninvestors/unitholders.\nMutual funds are required to issue consolidated account statement (CAS) for each calendar\nmonth, on or before fifteenth day of the succeeding month, to the investors in whose folios\ntransaction(s) has/have taken place during that month.\nA CAS every half yearly (September/ March) is issued, detailing holding at the end of the six\nmonth, across all schemes of all mutual funds, to all such investors in whose folios and demat\naccount no transaction has taken place during that period."
+    },
+    {
+        "Question": "Do investors need to pay any commission to the distributor for selling mutual fund\nschemes?",
+        "Answer": "As stated above, no entry load can be charged for any mutual fund scheme. An investor can\nchoose to pay upfront commission directly to the distributor, based on his assessment of various\nfactors including the service rendered by the distributor. However, for investments made through\na distributor, commission is paid by mutual fund to the distributor such that the total expense ratio\nfor an investor is within the limits on expense ratio specified under regulation 52 of the SEBI\n(Mutual Funds) Regulations, 1996. Hence, the cost borne by investors remains within the limit\nprescribed under SEBI Regulations.\nFurther, a transaction charge of INR 150 and INR 100 per subscription of INR 10,000 and above\nby a new and an existing investor, respectively, can be levied by distributor. This transaction\ncharge can be levied only if a distributor has opted in to levy transaction charge for that type of\nmutual fund scheme. Further, the transaction charge, if any, is to be deducted by the mutual fund\nfrom the subscription amount and paid to the distributor and the balance is to be invested. "
+    },
+    {
+        "Question": "How does an investor know how much commission the distributor is earning and what\nis the TER being charged in a scheme?",
+        "Answer": "The Consolidated Account Statement (CAS) issued to investors is required to provide information\nin terms of total purchase value/cost of investment in each scheme. Further, CAS issued for the\nhalf-year (ended September/March) also provides the amount of actual commission paid by\nMutual Funds to distributors (in absolute terms) during the half-year period against the concerned\ninvestor\u2019s total investments in each mutual fund scheme. The term \u201ccommission\u201d here refers to\nall direct monetary payments and other payments made in the form of gifts/rewards, trips, event\nsponsorships etc. by mutual funds to distributors. Further, a mention may be made in such\nCAS indicating that the commission disclosed is gross commission and does not exclude costs\nincurred by distributors such as GST (wherever applicable, as per existing rates), operating\nexpenses, etc.\nSuch half-yearly CAS is issued to all mutual fund investors, excluding those investors who do not\nhave any holdings in mutual fund schemes and where no commission against their investment\nhas been paid to distributors, during the concerned half-year period.\nSuch half-yearly CAS are also required to disclose the scheme\u2019s average Total Expense Ratio (in\npercentage terms) for the half year period for each scheme\u2019s applicable plan (regular or direct or\nboth) where the concerned investor has actually invested."
+    },
+    {
+        "Question": "Can a mutual fund change the asset allocation while deploying funds of investors?",
+        "Answer": "Considering the market trends, any prudent fund manager can change the asset allocation, i.e.,\nhe can invest higher or lower percentage of the fund in equity or debt instruments compared to\nwhat is disclosed in the offer document. It can be done on a short term basis on defensive\nconsiderations i.e. to protect the NAV. Hence, the fund managers are allowed certain flexibility in\naltering the asset allocation considering the interest of the investors. In case the mutual fund\nwants to change the asset allocation on a permanent basis, they are required to inform the unit\nholders and give them option to exit the scheme at prevailing NAV without any exit load."
+    },
+    {
+        "Question": "What is product labelling?",
+        "Answer": "Product labelling has been introduced to help investors have an easy understanding of the kind of\nproduct/scheme they are investing in and its suitability to them.\n All the mutual funds are required to label their schemes on the parameters as mentioned under:\na. Nature of scheme such as to create wealth or provide regular income in an indicative time\nhorizon (short/ medium/ long term).\nb. A brief about the investment objective (in a single line sentence) followed by kind of product\nin which investor is investing (Equity/Debt).\nc. The depiction of risk shall be through pictorial meter named \"Riskometer\" and this meter would\nappropriately depict the level of risk in any specific scheme. Risk-o-meter shall have following\nsix levels of risk for mutual fund schemes:\n\n\uf0b7 Low Risk\n\uf0b7 Low to Moderate Risk\n\uf0b7 Moderate Risk\n\uf0b7 Moderately High Risk\n\uf0b7 High Risk and\n\uf0b7 Very High Risk\nTo know about the product labelling of the scheme investors should refer to the front page of\ninitial offering application forms, Key Information Memorandum (KIM) and Scheme Information\nDocuments (SIDs, Common application form \u2013 along with the information about the scheme,\nand Scheme advertisements.\nHowever, investors should consult their financial advisers if they are not clear about the\nsuitability of the product."
+    },
+    {
+        "Question": "What is application supported by blocked amount (ASBA)?",
+        "Answer": "ASBA is a facility provided by banks to investors in new fund offers (NFOs) of mutual funds. If\ninvestors apply for an NFO via ASBA, their application amount gets blocked in their bank account.\nWhile the amount stays in the account, it cannot be used until the MF unit allotment is done. In\ncase of unsuccessful subscription i.e. getting subscription of less than 90% of the minimum\nsubscription amount by the mutual fund, the blocked amount is unblocked. For more information,\nplease refer to FAQs on ASBA available on SEBI website at\nhttp://www.sebi.gov.in/cms/sebi_data/commondocs/asbaprocess1_p.pdf."
+    },
+    {
+        "Question": "How to fill up the application form of a mutual fund scheme?",
+        "Answer": "An investor must mention clearly his name, address, number of units applied for and such other\ninformation as required in the application form. Know your Customer (KYC) documents need to\nbe submitted by a first time investor"
+    },
+    {
+        "Question": "What is a direct plan?",
+        "Answer": "SEBI has mandated mutual funds to compulsorily launch a direct plan for direct investments, i.e.,\ninvestments not routed through a distributor, from 01 January 2013 in addition to regular plan.\nSuch direct plan has a lower expense ratio compared to regular plan as there is no distribution\nexpenses and no commission is to be paid from such plans. The direct plan also has a separate\nNAV.\nInvestment in direct plans can be made in lump sum, i.e. a onetime payment, or through a\nSystematic Investment Plan (SIP)."
+    },
+    {
+        "Question": "What is a Systematic Investment Plan (SIP)?",
+        "Answer": "A SIP allows investors to save and invest periodically over a longer period of time. It is a\nconvenient way to \"invest as you earn\" and offers the investor an opportunity to enter the market\nregularly, thus averaging the acquisition cost of Units. Any investor/unitholder can avail of this\nfacility subject to certain terms and conditions contained in the Application Form. The\nFundamental Attributes and other terms and conditions regarding purchase/redemption, price and\nrelated matters are the same as contained in the offer document.\n"
+    },
+    {
+        "Question": " What is Systematic Transfer Plan (STP)?",
+        "Answer": "STP is a facility allowing investors to transfer their invested amount on a periodic basis from one\nscheme to another schemes launched by the same Mutual fund by giving a single instruction."
+    },
+    {
+        "Question": "What is Systematic Withdrawal Plan (SWP)?",
+        "Answer": "SWP allows the investor/unitholder to withdraw a specified sum of money each\nmonth/quarter/half-yearly/yearly from his investments in the Schemes. SWP is ideal for investors\nseeking a regular inflow of funds for their needs"
+    },
+    {
+        "Question": "What is Switching?",
+        "Answer": "Switching is the process of redeeming one fund and purchasing another within the same AMC.\nThis allows investors to reallocate their investments based on their changing financial goals and\nmarket conditions."
+    },
+    {
+        "Question": "Is it possible to invest in mutual fund schemes using cash?",
+        "Answer": "Yes, cash investments up to INR 50,000 per investor, per mutual fund, per financial year can be\nmade in mutual funds. However, the limit of INR 50,000 would be an umbrella limit for investments\nby an investor through both e-wallet and/or cash per mutual fund, per financial year. Although\ninvestment can be made in cash but repayment in form of redemptions, IDCW/dividend payments\ncan only be made through the banking channel. The pay-out bank details have to be provided in\nthe application form."
+    },
+    {
+        "Question": "Can non-resident Indians (NRIs) invest in mutual funds?",
+        "Answer": "Yes, non-resident Indians can also invest in mutual funds. Necessary details in this respect are\ngiven in the offer documents of the schemes."
+    },
+    {
+        "Question": "What should an investor look into an offer document?",
+        "Answer": "Mutual fund investments are subject to market risks. An investor should carefully read all the\nscheme related documents before investing. An abridged offer document known as [Key\nInformation Memorandum (KIM)], which contains information in concise form, is required to be\ngiven to the prospective investor by the mutual fund. The application form for subscription to a\nscheme is an integral part of the offer document. SEBI has prescribed minimum disclosures in\nthe offer document."
+    },
+    {
+        "Question": "What is IDCW (Dividend plan) in mutual funds?",
+        "Answer": "SEBI on April 1, 2021 has renamed the dividend option in mutual funds to Income Distribution\ncum Capital Withdrawal (IDCW). The change was made to clarify the difference between\ndividends from stocks and mutual funds and to avoid confusion that the dividend option was a\nguaranteed bonus"
+    },
+    {
+        "Question": "What is the timeline for transfer of IDCW and redemption proceeds to\ninvestors/unitholders:",
+        "Answer": "The payment of IDCW (dividend) proceeds to the investors/unitholders shall be made within seven\nworking days from the record date*. The transfer of redemption or repurchase proceeds to the\nunitholders shall be made within three working days from the date of redemption or repurchase and\nfive working days for schemes investing at least 80% of total assets in permissible overseas\ninvestments. In case of failures to dispatch the redemption/repurchase proceeds within the\nstipulated time period, the mutual fund is liable to pay interest as specified by SEBI from time to\ntime (15% p.a. at present) for the period of delay.\n*Record date is the date which will be considered for the purpose of determining the eligibility of\ninvestors whose names appear on the register of unit holders/investors for receiving IDCW."
+    },
+    {
+        "Question": "Can a mutual fund change the nature of the scheme from the one specified in the offer\ndocument?",
+        "Answer": "Yes, mutual funds can change the nature of their schemes known as fundamental attributes\n(structure, investment pattern, terms of issue etc.), but they must follow certain procedures as\nenumerated below:\n\uf0b7 Send written communication to all unit holders about the proposed changes.\n\uf0b7 The mutual fund must publish an advertisement in an English daily with nationwide\ncirculation and in a newspaper in the language of the region where the mutual fund's head\noffice is located\n\uf0b7 The mutual fund must give unit holders a 30-day window to exit the scheme without paying\nan exit load\n\uf0b7 Seek prior approval from SEBI to change any fundamental attributes of the scheme.\nThe mutual funds are also required to follow similar procedure (seeking positive consent from\nthe investors) while converting the scheme from close-ended to open-ended scheme"
+    },
+    {
+        "Question": "How will an investor come to know about the changes, if any, which may occur in the\nmutual fund?",
+        "Answer": "There may be changes from time to time in a mutual fund. The mutual funds are required to inform\nany material changes to their investors/unit holders. Apart from it, many mutual funds send\nnewsletters to their investors. At present, Scheme Information Document (SID) is required to be\nrevised and updated within one month from the end of the half-year, based on the relevant data\nand information as at the end of September and March respectively. In the meantime, the\ninvestors are informed about the material changes by way of addendum to the offer document."
+    },
+    {
+        "Question": "How to know the performance of a mutual fund scheme?",
+        "Answer": "The performance of a scheme is reflected in its NAV which is disclosed on daily basis. The NAVs\nof mutual funds are required to be published on the web sites of mutual funds. All mutual funds\nare also required to put their NAVs on the web site of Association of Mutual Funds in India (AMFI)\nwww.amfiindia.com and thus the investors can access NAVs of all mutual funds at one place.\nAlso, each mutual fund is required to have a dashboard on its website providing performance and\nkey disclosures pertaining to each scheme managed by the mutual fund.\nThe mutual funds are also required to publish their performance in the form of half-yearly results\nwhich also include their returns over a period of time i.e. last six months, 1 year, 3 years, 5 years\nand since inception of schemes. Investors can also look into other details like percentage of\nexpenses of total assets as these have an effect on the return and other useful information in the\nsame half-yearly format.\nThe mutual funds are also required to send annual report or abridged annual report to the\nunitholders at the end of the year.\nInvestors can compare the performance of their schemes with those of other mutual funds under\nthe same category. They can also compare the performance of equity oriented schemes with the\nbenchmarks like BSE Sensitive Index, Nifty, etc."
+    },
+    {
+        "Question": "How to know where the mutual fund scheme has invested the money mobilized from\ninvestors?",
+        "Answer": "The mutual funds are required to disclose full portfolios of all of their schemes on a monthly basis\non their website and on the website of AMFI within 10 days from the close of each month/ halfyear respectively in a user-friendly and downloadable spreadsheet format. For debt schemes,\nsuch disclosure is done on fortnightly basis within 5 days of every fortnight.\nIn case of unit holders whose e-mail addresses are registered, the Mutual Funds are required to\nsend via email both the monthly and half-yearly statement of scheme portfolio within 10 days from\nthe close of each month/ half-year respectively. Mutual Funds are also required to publish an\nadvertisement every half-year disclosing the hosting of the half-yearly statement of its schemes\nportfolio on their respective website and on the website of AMFI and the modes such as SMS,\ntelephone, email or written request (letter) through which a unit holder can submit a request for a\nphysical or electronic copy of the statement of scheme portfolio. Such advertisement to be\npublished in the all India edition of at least two daily newspapers, one each in English and Hindi.\nMutual Funds are required to provide a physical copy of the statement of its scheme portfolio,\nwithout charging any cost, on specific request received from a unit holder.\nThe scheme portfolio shows investment made in each security i.e. equity, debentures, money\nmarket instruments, government securities, etc. and their quantity, market value and % to NAV.\nThese portfolio statements are also required to disclose illiquid securities in the portfolio,\ninvestment made in rated and unrated debt securities, non-performing assets (NPAs), etc."
+    },
+    {
+        "Question": "Is there any difference between investing in a mutual fund and in an initial public\noffering (IPO) of a company",
+        "Answer": "Yes, there is a difference. Initial Public Offering (IPO) is offered by a company to directly raise\nmoney for a single company as per the stated objective. In the case of mutual funds, the money\ngarnered is used for investing in eligible securities such as equity and debt instruments of basket\nof companies, money market instruments, gold, etc. "
+    },
+    {
+        "Question": "Where can an investor look for information on mutual funds?",
+        "Answer": "Almost all the mutual funds have their own web sites, where details of NAVs,SIDs ,KIMs and\nportfolio of the schemes etc. are readily available. Investors can also access the NAVs of all\nmutual funds at the web site of Association of mutual funds in India (AMFI) www.amfiindia.com.\nInvestors can log on to the web site of SEBI www.sebi.gov.in and go to \u201cMutual Funds\u201d section\nfor information on SEBI regulations and guidelines, data on mutual funds, draft offer documents\nfiled by mutual funds, etc. Also, in the annual reports of SEBI available on the web site, information\non mutual funds is given.\nThere are a number of other web sites which give a lot of information of various schemes of\nmutual funds including returns over a period of time. Many newspapers also publish useful\ninformation on mutual funds on daily and weekly basis.\nInvestors may also approach their financial advisors to guide them in this regard."
+    },
+    {
+        "Question": "How can an investor view unclaimed IDCW / Redemption amount lying in their folios, if\nany, with a mutual fund and process to claim it?",
+        "Answer": "Investor can find the details of unclaimed amounts on respective website of mutual fund upon key\nin the necessary information i.e. folio number, date of birth and registered mobile number etc.\nTo know the process of claiming unclaimed IDCW/Redemption amount, investor should refer to\nthe concerned website of the mutual fund.\nThe information on unclaimed amount along with its prevailing value (based on income earned\non deployment of such unclaimed amount) is separately disclosed to investors through the\nperiodic statement of accounts/CAS sent to the investors"
+    },
+    {
+        "Question": "Can an investor appoint a nominee for his investment in units of a mutual fund?",
+        "Answer": "Yes. Regulation 29A of SEBI (Mutual Fund) Regulations, 1996, notifies that the mutual fund shall\nprovide nomination facility to the unit holders to nominate a person in whose favour the units\nshall be transmitted in the event of death of the unit holder. An investor, investing in mutual fund\nunits has to provide nomination or opt out of nomination through physical or online mode.\nThe requirement of nomination is optional for jointly held folios. A person may nominate upto\nthree persons and clearly indicate the percentage of allocation/share in favour of each of the\nnominee against their names, and such allocation/share shall be in whole numbers without any\ndecimals. Further an individual may appoint different nominees for different schemes. Non\nindividuals including society, trust, body corporate, partnership firm, Karta of Hindu Undivided\nFamily, holder of Power of Attorney cannot nominate. "
+    },
+    {
+        "Question": "If mutual fund scheme is wound up, what happens to money invested?",
+        "Answer": "In case of winding up of a scheme, the proceeds of sale realised by disposing of the assets of the\nscheme after adjustment of liabilities as are due and payable under the scheme and after making\nappropriate provision for meeting the expenses connected with such winding up, the balance shall\nbe paid to the investors/unitholders in proportion to their respective interest in the assets of the\nscheme. Unitholders are entitled to receive a report on winding up from the mutual funds which\ngives all necessary details. "
+    },
+    {
+        "Question": "Where can investors lodge their complaints?",
+        "Answer": "The grievance redressal and dispute mechanism is mentioned in the offer documents and website\nof the respective mutual fund. Investors should approach the concerned Mutual Fund / Investor\nService Centre of the Mutual Fund for resolution of their complaints. Details regarding the name\naddress, and phone number of the investor relation officer whom should be approach in case of\nany query, complaints etc. can be found in the offer document/SAI of the respective mutual fund.\nIn case of non redressal of the complaint, the investors can approach SEBI for redressing their\ncomplaints. Investor may lodge their complaints through SCORES (SEBI Complaints Redress\nSystem \u2013 https://scores.sebi.gov.in) or by sending their complaints on the address given below:\nSecurities and Exchange Board of India\nOffice of Investor Assistance and Education,\nSecurities and Exchange Board of India,\nSEBI Bhavan II\nPN-C7, G Block BKC,\nBandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051\nInvestors can lodge their complaint through SEBI SCORES mobile app also."
+    },
+    {
+        "Question": "What is a Folio number?",
+        "Answer": "Much like a bank account number, a Folio number is your Account Number in a Mutual Fund Scheme, under which yours Unit holdings in a mutual fund scheme are recorded in the Unit Holders\u2019 Register.\n\nMost Mutual Funds allot a Master Folio number, so that Unit holdings of a unit holder (or same set of unit holders, in case of joint holders) are shown under a common folio number thereby avoiding the need to remember multiple folio numbers.\n"
+    },
+    {
+        "Question": "What is an Account Statement?",
+        "Answer": "As the name suggests, it is a statement that reflects your holding in a scheme. A statement of accounts is like a bank pass book.\n\nAn account statement will reflect the following\n\nThe scheme in which you have invested.\nThe amount you've invested, the purchase price and the units you were allotted.\nOther details like Bank details, mailing and contact details, nominee details etc.\nThe Mutual Funds issue a Consolidated Account Statement (CAS) across all fund houses once a month. However, one may request for an account statement with each fund house that will solely reflect the holdings in the schemes managed by that particular fund house. There may be charges levied for issue of a duplicate account statement."
+    },
+    {
+        "Question": "When does the investor get an account statement after investing in a mutual fund?",
+        "Answer": "Mutual funds are required to issue statements of accounts within five working days from the date of closure of the initial subscription of the scheme. In case of close-ended schemes, the investors would get either a demat account statement as these are traded in the stock exchanges. In case of open-ended schemes, a statement of account is issued by the mutual fund within five working days from the date of closure of initial public offer of the scheme and/or from the date of receipt of the request from the unitholders. The procedure of repurchase is mentioned in the offer document.\n\nAlso, AMCs are required to send confirmation specifying the number of units allotted to the applicant by way of email and/or SMS\u2019s to the applicant\u2019s registered email address and/or mobile number as soon as possible but not later than five working days from the date of closure of the initial subscription list and/or from the date of receipt of the request from the unitholders."
+    },
+    {
+        "Question": "What are cut-off times?",
+        "Answer": "The Cut-off timing is the time before which an investor has to submit a valid purchase or withdrawal/ redemption form to be eligible for a particular day's price or Net Asset Value (NAV)."
+    },
+    {
+        "Question": "What is NAV ?",
+        "Answer": "The performance of a particular scheme of a mutual fund is denoted by Net Asset Value (NAV). In simple words, NAV is the market value of the securities held by the scheme.\n\nMutual funds invest the money collected from investors in securities markets. Since market value of securities changes every day, NAV of a scheme also varies on day to day basis.\n\nThe NAV per unit is the market value of securities of a scheme divided by the total number of units of the scheme on any particular date.\n\nFor example, if the market value of securities of a mutual fund scheme is INR 200 lakh and the mutual fund has issued 10 lakh units of INR 10 each to the investors, then the NAV per unit of the fund is INR 20 (i.e.200 lakh/10 lakh). NAV is required to be disclosed by the mutual funds on a daily basis. The NAV per unit of all mutual fund schemes have to be updated on AMFI\u00eds website and the Mutual Funds\u2019 website by 9 p.m. of the same day. Fund of Funds are allowed time till 10 a.m. the following business day to update the information.\n\nUnlike stocks (where the price is driven by the market and changes from minute-to-minute) , mutual funds don't declare NAVs through the day.\n\nInstead, NAVs of all mutual fund schemes are declared at the end of the trading day after markets are closed, in accordance with SEBI Mutual Fund Regulations.  Further, as per SEBI Mutual Fund Regulations, for all mutual fund schemes, other than liquid fund schemes, the mutual fund Units are allotted only at prospective NAV, i.e., the NAV that would be declared at the end of the day, based on the closing market value of the securities held in the respective schemes.\n\nThus, what is important here is the cut-off time for submission/receipt of the transaction \u2013 If you invest before the cut-off time, you will get the end-of-day NAV of that particular business day. The cut off time for purchase transactions for all mutual fund schemes other than liquid fund schemes is 3:00 p.m. This means that if you have invested till 3:00 p.m. on a particular day, you will get that day's NAV.\n\nA mutual fund may accept applications even after the cut-off time,  but you will get the NAV of the next business day. Further, the cut-off time rules apply for redemptions too. "
+    },
+    {
+        "Question": "How is the applicable NAV determined?",
+        "Answer": "As per SEBI circular no. SEBI/HO/IMD/DF2/CIR/P/2020/175 dated September 17, 2020 read with circular no. SEBI/HO/IMD/DF2/CIR/P/2020/253 dated December 31, 2020, effective from February 1, 2021, the applicable NAV in respect of purchase of units of mutual fund scheme shall be subject to realization & availability of the funds in the bank account of mutual fund before the applicable cut off timings for purchase transactions, irrespective of the amount of investment, under ALL mutual fund schemes.\n\nLiquid Funds\n- Subscription\n\nWhere the application is received up to 1.30 p.m. on a day and funds are available for utilization before 1.30 p.m. without availing any credit facility, the closing NAV of the day immediately preceding the day of receipt of application.\nWhere the application is received after 1.30 p.m. on a day and funds are available for utilization on the same day without availing any credit facility, the closing NAV of the day immediately preceding the next business day; and\nIrrespective of the time of receipt of application (before or after 1.30 p.m. on a day), where the funds are not available for utilization before 1.30 p.m. without availing any credit facility, the closing NAV of the day immediately preceding the day on which the funds are available for utilization.\n- Redemption\n\nWhere the application is received up to 3.00 pm \u2013 the closing NAV of day immediately preceding the next business day; and\nWhere the application is received after 3.00 pm \u2013 the closing NAV of the next business day./li>\n \n\nOther Schemes [other than Liquid Funds]\na. Subscription\n\nWhere the application is received up to 3:00 p.m. and funds are available for utilization before 3:00 p.m., closing NAV of the day on which the application is received.\nWhere the application is received after 3:00 p.m. and funds are available for utilization, closing NAV of the next business day.\nIrrespective of the time of receipt of application (before or after 3:00 p.m.), where the funds are not available for utilization, closing NAV of the day on which the funds are available for utilization.\nb. Redemption\n\nWhere the application is received up to 3.00 pm \u2013 closing NAV of the day on which the application is received; and\nWhere the application is received after 3.00 pm \u2013 closing NAV of the next business day."
+    },
+    {
+        "Question": "Where can one get information on NAVs of mutual funds?",
+        "Answer": "All mutual funds publish their scheme NAVs on their respective web sites.\n\nIn addition, one can also access the NAVs of all mutual funds on the web site of Association of Mutual Funds in India (AMFI) at www.amfiindia.com."
+    },
+    {
+        "Question": "What is the purpose / rationale for cut-off times for purchases and redemption's?",
+        "Answer": "Mutual funds are market linked investments. They invest in either Equity, Bond or Gold markets and these markets have fixed open and closing hours for trading. The NAV of a scheme is based market value of the underlying portfolio and thus highly correlated with the market prices. So in order to be eligible for a particular days' NAV, the fund manager needs to be aware of the amount that needs to be purchased or sold as per the settlement period and trading times of the markets. The timings also largely help in ensuring that all classes of investors get the same treatment irrespective of their quantum of investing."
+    },
+    {
+        "Question": "What is sale and repurchase/redemption price?",
+        "Answer": "The price or NAV a unit holder is charged while investing in a mutual fund scheme is called sales price.\n\nRepurchase or redemption price is the price or NAV at which a mutual fund repurchases (buys back) / redeems its units from the unitholders. It may include exit load, if applicable."
+    },
+    {
+        "Question": "What is Total Expense Ratio?",
+        "Answer": "Expense ratio represents the annual fund operating expenses of a scheme, expressed as a percentage of the fund\u2019s daily net assets. Operating expenses of a scheme are administration, management, advertising related expenses, etc.\n\nAn expense ratio of 1% per annum means that each year 1% of the fund\u2019s total assets will be used to cover expenses. Information on expense ratio that may be applicable to a scheme is mentioned in the offer document. Currently, in India, the expense ratio is fungible, i.e., there is no limit on any particular type of allowed expense as long as the total expense ratio is within the prescribed limit. For limits on expense ratio, refer to regulation 52 of the SEBI (Mutual Funds) Regulations, 1996."
+    },
+    {
+        "Question": "Do I need to pay any fees to the distributor who sells me mutual fund schemes?",
+        "Answer": "As per SEBI mutual Fund Regulations, no entry load can be charged for any mutual fund scheme. An investor may choose to pay fees to a distributor based on the investor\u2019s assessment of various factors including the service rendered by the distributor. However, for investments made through a distributor, commission is paid directly by AMC to the distributor within the limits on expense ratio specified under regulation 52 of the SEBI (Mutual Funds) Regulations, 1996. Hence, the cost borne by investors remains within the limit prescribed under SEBI Regulations.\n\nTransaction Charges:\nMutual Fund Distributors are permitted to recover transaction charges of \u20b9150 from a new investor and \u20b9100 per subscription transaction of \u20b910,000 from an existing investor.\n\nThis transaction charge can be levied only if a distributor has opted in to levy transaction charge for that type of mutual fund scheme. Further, the transaction charge, if any, are deducted by the mutual fund from the subscription amount and passed on to the distributor and the balance amount is invested."
+    },
+    {
+        "Question": "How does an investor know how much commission the distributor is earning and what is the TER being charged in a scheme?",
+        "Answer": "From October 1, 2016, the monthly Consolidated Account Statement (CAS) issued to investors is required to provide information in terms of total purchase value/cost of investment in each scheme. Further, CAS issued for the half-year (ended September/March) shall also provide the amount of actual commission paid by AMCs/Mutual Funds to distributors (in absolute terms) during the half-year period against the concerned investor\u2019s total investments in each Mutual Fund scheme.\n\nThe term \u2018commission\u2019 here refers to all direct monetary payments and other payments made in the form of gifts/rewards, trips, event sponsorships etc. by AMCs/MFs to distributors. The commission disclosed in the HY-CAS is the gross commission and does not exclude costs incurred by distributors such as service tax (wherever applicable, as per existing rates), operating expenses, etc."
+    },
+    {
+        "Question": "What is ASBA?",
+        "Answer": "ASBA is an acronym for application supported by blocked amounts and is a facility provided by banks to investors in New Fund Offers (NFOs) of mutual funds. If you apply for Units via ASBA during NFO, your application amount is blocked in your bank account and debited only upon allotment of Units. In other words, the amount blocked remains in your bank account till allotment, but it cannot be used until allotment is completed.\n\nFor more information, refer to FAQs on ASBA available on SEBI website at http://www.sebi.gov.in/cms/sebi_data/commondocs/asbaprocess1_p.pdf."
+    },
+    {
+        "Question": "What is a Direct Plan?",
+        "Answer": "One may invest in mutual funds with the help of a financial intermediary i.e., a Mutual Fund distributor/agent in a Regular Plan OR choose to INVEST DIRECTLY i.e., without involving or routing the investment through any distributor/agent in a \u2018Direct Plan\u2019.\n\n'Direct Plan' and 'Regular Plan\u2019 are both part of the same mutual fund scheme, have the same / common portfolio and are managed by the same fund manager, but have different expense ratios (recurring expenses that is incurred by the mutual fund scheme). Direct Plan has lower expense ratio than the Regular Plan, as there is no distributor/agent involved, and hence there is saving in terms of distribution cost/commissions paid out to the distributor/agent, which is added back to the returns of the scheme. Hence, a Direct Plan has a separate NAV, which is higher than the normal \u201cRegular\u201d Plan\u2019s NAV.\n\nTo know more about Direct Plan, click here"
+    },
+    {
+        "Question": "Can I invest in units in cash?",
+        "Answer": "Yes, cash investments up to \u20b950,000 per investor, per mutual fund, per financial year are permitted. However, the repurchase or dividend payment is not made in cash, but paid by cheque / draft or direct credit to investor\u2019s bank account via NEFT/RTGS etc."
+    },
+    {
+        "Question": "Can Non-Resident Indians (NRIs) invest in mutual funds?",
+        "Answer": "Yes, non-resident Indians can invest in mutual funds in India. Please refer to the respective mutual fund\u2019s offer documents for details."
+    },
+    {
+        "Question": "Is it mandatory for the primary unit holder of the mutual fund folio be a joint holder in the bank account from which the payment for MF investments are made?",
+        "Answer": "The 1st holder in the mutual fund folio should be one of the joint holders in the registered bank account (though not necessarily be the primary holder in the bank account). In other words, the payment made from the bank account of the 2nd or 3rd holder in the MF folio is acceptable, only if the 1st holder in the MF folio is also one of the joint holders in the bank account; not otherwise.\n\nAs per extant regulations, AMCs/RTAs are required to validate the bank accounts of the MF investors, which is typically done through \u201cpenny drop\u201d mechanism via Immediate Payment Service (IMPS).\nHowever, currently validation of bank account via IMPS is possible only in respect of the First Holder in the bank account. i.e., validation of the bank account through IMPS is not possible if the first holder in MF folio is the 2nd or 3rd holder in the bank account. Hence, in such cases, the MF investor will have to provide an alternate documentary proof such a cancelled cheque leaf /copy of bank passbook or bank statement etc., to enable the AMC to verify the correctness of the bank account."
+    },
+    {
+        "Question": "How much time does it take to get my money back i.e., repurchase proceeds?",
+        "Answer": "As per recent SEBI circular SEBI/HO/IMD/IMD-I DOF2/P/CIR/2022/1 dated November 25, 2022, SEBI has revised Timelines for transfer of redemption proceeds to unitholders . Accordingly, the transfer of redemption or repurchase proceeds to the unitholders shall be made within three working days from the date of redemption or repurchase.\n\nFor schemes investing atleast 80% of total assets in permissible overseas investments (Vide SEBI Circular SEBI/IMD/CIR No.7/104753/07 dated September 26, 2007, a list of permissible investments was prescribed for the purpose of overseas investments), the transfer of redemption or repurchase proceeds to the unitholders shall be made within five working days from the date of redemption or repurchase.\n\nIn case of failure to dispatch the redemption/repurchase proceeds within 3 working days or 5 working days as the case may be, the AMC is liable to pay interest @15% for the period of delay beyond 3 or 5 working days.\n\nFor list of exceptional situations and additional timelines for redemption payment - Click here"
+    },
+    {
+        "Question": "Where can I check if there is any unclaimed dividend or redemption amount against my name outstanding with a mutual fund?",
+        "Answer": "All Mutual Funds provide, the list of names and addresses of investors in whose folios there are unclaimed amounts (dividend/redemption) on their websites. The website of Mutual Funds is also provide information on the process of claiming the unclaimed amount and the necessary forms/documents required for the same.\n\nThe information on unclaimed amount along with its prevailing value (based on income earned on deployment of such unclaimed amount) is separately disclosed to investors through the periodic statement of accounts/CAS sent to the investors."
+    },
+    {
+        "Question": "Can an investor appoint a nominee for his investment in units of a mutual fund?",
+        "Answer": "Yes. All Mutual Funds provide a nomination facility to individual investors."
+    },
+    {
+        "Question": "If mutual fund scheme is wound up, what happens to investors\u2019 money?",
+        "Answer": "In case of winding up of a scheme, the mutual funds refund to the unitholders whose names appear in the Unit Holders\u2019 Register value of their outstanding Units at prevailing NAV, after adjustment of all expenses. Unitholders are entitled to receive a report on winding up from the mutual fund which gives all necessary details."
+    },
+    {
+        "Question": "How can investors redress their complaints?",
+        "Answer": "The name of the Investor Relations Officer / contact person is mentioned in the Scheme Information Document (SID) of the mutual fund scheme, and also on the website of the concerned mutual fund, whom one may approach / write to in case of any query, complaints or grievance.\n\nInvestors should approach the concerned Mutual Fund / Investor Service Centre of the Mutual Fund in case of any complaint. If the complaint remains unresolved, the investor may approach SEBI by logging their complaint on SEBI\u2019s complaints redressal system. Please log on to the section titled \u2018SCORES\u201d for more information."
+    },
+    {
+        "Question": "Can I add an additional name as joint holder in an existing Folio?",
+        "Answer": "\u2018Units\u2019 of mutual funds are \u2018securities\u2019 within the meaning of securities as defined under Securities Contract Regulation Act. \n\nAs per law, addition of a 2nd name / 3rd name in an existing mutual fund folio / account constitutes a \u2018transfer\u2019 of assets, requiring payment of stamp duty etc.\n\nTo overcome the above legal hassle and to enable clients to transfer the units freely, as mandated by SEBI , all mutual funds have provided a facility to the clients to hold units in demat mode.  Each mutual fund scheme has a separate / distinct ISIN, as mandated by SEBI, so as to facilitate dematerialization of units easily.\n\nIn other words, units held in demat mode are freely transferable via Stock exchanges in case of listed schemes / ETFs and via off-market transaction, in case of unlisted schemes.  This facility is not available in respect of units held under physical statements.  In other words, an investor who wishes to add a name/ joint holder in an existing mutual fund folio / account may do so by transferring the units held in demat mode, from the demat account of the sole holder to the desired demat account held in multiple names through an off-market transaction."
+    },
+    {
+        "Question": "I wish to gift my units in mutual funds to my children. Can I do this by executing a Gift Deed for this purpose?",
+        "Answer": "Mutual Fund units cannot be transferred through a Gift Deed.\n\nThe person desirous of gifting the units may either bequeath the units to the person whom she/he wishes to gift through a Will or transfer the units through De-mat mode via an off-market transaction in the transferee\u2019s De-mat account.  For the latter mode, the units must be held in Dmat mode only.  If the units are held in physical mode, then the same will first need to be dematerialized and then transferred through off-market mode as stated above."
+    },
+    {
+        "Question": "What is Total Return Index?",
+        "Answer": "Total return index (TRI) is an index that measures the performance of a group of components (say, equities or debt instruments) by assuming that all cash distributions are reinvested, in addition to tracking the components\u2019 price movements. In other words, it measures performance, reflecting the actual rate of return of an investment or a pool of investments over a given period. And it includes interest, capital gains, dividends and distributions realised over a given period of time from such pool of investments. Globally, TRI is viewed as a strong measure to reflect the actual out-performance over benchmark returns by a mutual fund scheme."
+    },
+    {
+        "Question": "What are the investment avenues available to investors of securities market ?",
+        "Answer": "Investors have a basic choice: they can invest directly in individual securities, or they can invest through a mutual fund."
+    },
+    {
+        "Question": "What is a Mutual Fund?",
+        "Answer": "A mutual fund is a pool of money managed by a professional Fund Manager.  A SEB I registered trust through an announcement (Called Scheme Information Document) offers to manage pool of funds in accordance with an investment objectives  and collects money from public (investors) . The money so collected will be invested in  equities, bonds, money market instruments and/or other securities  as per the investment objectives . The income /gains generated from th ese investment s are apportioned  proportionately amongst the investors after deducting applicable expenses and levies, by calculating a scheme\u2019s \u201cNet Asset Value\u201d or NAV."
+    },
+    {
+        "Question": "What are the benefit s of investing through  mutual funds?",
+        "Answer": "Investments through mutual funds giv e the following benefits: A. A Professional investment Management B. Risk reduction through diversification . C. Convenien ce of  investment and withdrawal . D. Availability of alternative portfolio objectives . E. Unit holders account administration and services . F. Reduction in transaction costs . G. Regulatory protection ."
+    },
+    {
+        "Question": "How is investing in banks different from investing in mutual funds?",
+        "Answer": "Investor in bank deposits is called a depositor; investor in mutual funds is called a unit holder. \u2013 Depositors can claim their deposits back on demand along  with accrued interest.  Interest rate is pre -fixed and only such pre -fixed interest will be payable . Bank is free to invest such deposits as per bank\u2019s business requirements and depositor cannot question the same. Mutual Fund investors (known as un it hold er) has claim on the \u2018net asset value  (NAV )\u2019 of its investment on the day on which investment is withdrawn. If \u2018N AV\u2019 on the day of withdrawal (redemption) is more than the \u2018 NAV \u2019 on the day of investment, unit holder will have a gain; if NAV on the day of redemption is less than NAV on the day of investment, unit holder will incur a loss.  Mutual fund has to invest the investments received from unit holders strictly in accordance with mutual fund scheme objectives ."
+    },
+    {
+        "Question": "Is bank an intermediary?",
+        "Answer": "Bank is the largest intermediary in the financial system. Thousands of depositors pool their savings in a bank and  receive a specified rate of return (interest). Page 4 of 73"
+    },
+    {
+        "Question": "Is the return on deposit (interest) linked to the performance of the bank?",
+        "Answer": "Return to the deposit holders i.e. interest is not linked with the performance of  the bank. Bank is bound to pay interest at the pre -announced rates."
+    },
+    {
+        "Question": "Is the return on Mutual funds linked to the performance of the fund?",
+        "Answer": "Yes  return the mutual funds is linked to the performance of the portfolio managed by the fund."
+    },
+    {
+        "Question": "Do investors face risk in Mutual Funds?",
+        "Answer": "A unit holder assumes investment risk, including the possibility of reduction/loss of principal, because mutual funds invest in securities whose value may rise and fall."
+    },
+    {
+        "Question": "Are Bank Deposit Insured?",
+        "Answer": "The Deposit Insurance and Credit guarantee corporatio n (DICGC) insures all deposits such as savings, fixed, current, and recurring. Each depositor in a bank is insured up to a maximum of Rs.5,00,000 (Rupees Five Lakh) for both principal and interest."
+    },
+    {
+        "Question": "Are Mutual Funds Insured?",
+        "Answer": "Mutual funds are not ins ured under Deposit Insurance and Credit Guarantee Corporation Act, 1961 . There is no other assurance to investors except that SEBI will oversees w hether mutual funds are in compliance with regulations prescribed by SEBI."
+    },
+    {
+        "Question": "Who are mutual fund unit holders?",
+        "Answer": "Mutual fund unit holders are the fund shareholders."
+    },
+    {
+        "Question": "Who are bank depositors to the bank?",
+        "Answer": "Bank depositors are the banks\u2019 creditors."
+    },
+    {
+        "Question": "What do you understand by professional investment management?",
+        "Answer": "Every mutual fund scheme is managed by a professional investment manager who has capability to make investments in accordance with the mutual fund scheme objective and investment str ategy.  I n simple terms, professional manager decides the scrips (shares  or debt instruments) into which investments are to be made keeping in view potential to make gains; such decision making involves opting whether to buy, sell or hold shares to make profits. It requires understanding of markets, movement of prices in the m arkets , financial state of the company of the shares into which investment is to be made, etc. it is a compl ex process."
+    },
+    {
+        "Question": "How do fund managers manage investors\u2019 funds?",
+        "Answer": "Professiona l investment managers  choose investments that best match the investment objective of the scheme as described in the scheme\u2019s prospectus  and have a potential to gain. Page 5 of 73 Investment decision also involves decision to sell or buy or hold a share with a view to make a profit for the scheme."
+    },
+    {
+        "Question": "How are investment decision taken by the fund managers?",
+        "Answer": "The investment decisions are based on extensive research of the market conditions, and financial performance of the sector, individual company and specific securities."
+    },
+    {
+        "Question": "How do market co nditions influence the decisions making process?",
+        "Answer": "Changes in market conditions will have an impact of reducing or enhancing gains or inflicting losses on an investment.  As the market condition changes, professional  investment managers  churn their portfolios over accordingly with a view to achieve investment objectives with an endeavour  to avoid loss and make  gain."
+    },
+    {
+        "Question": "How is the risk reduced in mutual funds?",
+        "Answer": "The risk is reduced through Diversification across asset classes, sectors and securities ."
+    },
+    {
+        "Question": "What is the age -old axiom used for mutual fund?",
+        "Answer": "The age -old axiom is that, it is not wise to put all eggs into one basket was probably in the minds of those who formed the first mutual fund . Mutual funds follow the principle of avoidi ng keeping  all eggs in a single basket \u2013 if basket falls, all eggs break \u2013 instead if eggs are distributed in several baskets, fall of one basket, only some eggs in that basket break."
+    },
+    {
+        "Question": "How does a mutual fund provide a diversification benefit?",
+        "Answer": "The mutual funds  provide the benefits of diversification by investing small amounts in a large number of securities."
+    },
+    {
+        "Question": "Why do  MF have a wide range of schemes?",
+        "Answer": "The wide range of schemes arose over the years to meet the requirements of the investors with different investment  objectives.  Gains from the market can be achieved by investing using different combinations or patterns of investments. Each investment pattern is reflected in a separate mutual fund scheme."
+    },
+    {
+        "Question": "Why is Investing in MF Cost effective?",
+        "Answer": "The low costs are due to standardization, and high economies of scale (arising on account of the collective investment character).  If an investor chooses to invest directly, costs like Page 6 of 73 brokerages, depository participant charges, Securities Transaction Taxes (STT), etc.  have to be incurred in addition to time and effort in volved in monitoring the price movements of shares in which inve stment is made.  In case of mutual funds, all these costs are absorbed into the mutual fund expenses on which there is a regulatory ceiling and competition among mutual funds also keeps it under a check."
+    },
+    {
+        "Question": "Is there any regulation regarding the expenses tha t can be charged to Unitholders?",
+        "Answer": "SEBI has set ceiling with regard to expenses, which can be charged to the investors."
+    },
+    {
+        "Question": "What Mutual Funds are not meant for?",
+        "Answer": "Mutual funds are not \u2018get rich quick \u2019 investments ."
+    },
+    {
+        "Question": "Are Mutual fund Risk free?",
+        "Answer": "Mutual funds are not risk -free investments (but strictly regulated and controlled) .  All market related risks will flow to the investors in mutual funds,  but it is expected that the professional investment managers foresee these risks and take measur es to mitigate or reduce these risks.   II. Mutual Fund Products"
+    },
+    {
+        "Question": "What are the various kinds on mutual funds?",
+        "Answer": "On the basis of organizational structure, mutual funds can be classified as open -ended and Close ended funds"
+    },
+    {
+        "Question": "What is an Open -Ended Mutual Fund?",
+        "Answer": "An open -ended mutual fund gives utmost liberty and flexibility to investors to enter and exit as and when they feel like."
+    },
+    {
+        "Question": "What is a Close -Ended Mutual Fund?",
+        "Answer": "Close -ended mutual funds offer a fixed timeline to investors for participating in and ou t of the fund. However, most of the close ended funds are listed on the exchange."
+    },
+    {
+        "Question": "Where are Open Ended Mutual Funds available?",
+        "Answer": "These funds are not traded in the open market. Transactions are performed directly through the fund."
+    },
+    {
+        "Question": "Where are Close Ended Mutual Funds available?",
+        "Answer": "They are launched through an NFO for raising money and subsequently listed on an exchange."
+    },
+    {
+        "Question": "What is t he maturity period for open and closed -ended mutual funds?",
+        "Answer": "There is no maturity period for open ended funds while close ended mutual funds have a fixed maturity which ranges from 2 -5 years."
+    },
+    {
+        "Question": "What is an Interval Fund?",
+        "Answer": "Interval funds combine the fe atures of open -ended and close ended funds. The units of an interval fund can be purchased and sold/redeemed only during time intervals specified by the fund house."
+    },
+    {
+        "Question": "What is the time interval for the Interval Fund?",
+        "Answer": "The time intervals could be monthly , quarterly, semi -annual or annual. Thus, you can say an interval fund represents a mix of open -ended  and close -ended funds in terms of subscription and redemption features."
+    },
+    {
+        "Question": "Are Interval funds listed on exchanges?",
+        "Answer": "Interval fund is generally not listed on stock exchanges or other secondary markets."
+    },
+    {
+        "Question": "Who should invest in Interval Funds?",
+        "Answer": "An interval fund is ideal for investors who have short -time financial goals and who are willing to take low to moderate levels of risk."
+    },
+    {
+        "Question": "How can Interval Funds be purchased?",
+        "Answer": "They can be purchased directly from the fund like open -ended mutual funds at a price calculated based on their Net Asset Value (NAV), which is assessed daily."
+    },
+    {
+        "Question": "How can an investor redeem an Interval Fund?",
+        "Answer": "An investor can redeem their units by selling  them to the fund house during the specified redemption periods."
+    },
+    {
+        "Question": "Are Interval Funds liquid?",
+        "Answer": "Interval mutual funds are not liquid and therefore, not beneficial during emergencies."
+    },
+    {
+        "Question": "What are the various categories of Mutual Funds  in terms of their inv estment",
+        "Answer": "The simplest way to categories funds on the basis of their investment portfolio would be to group them as \u2013 a. Equity Schemes b. Debt Schemes c. Hybrid Schemes d. Solution Oriented Schemes e. Other Schemes Page 8 of 73"
+    },
+    {
+        "Question": "What are Equity Funds?",
+        "Answer": "Equity Funds concentrate their investments in equity shares."
+    },
+    {
+        "Question": "What are various types of Equity Funds?",
+        "Answer": "Equity funds can be categorized as Large cap fund, Mid -cap funds, Small cap funds, Multi cap funds, Index funds, Sector Funds and Equity linked savi ng schemes etc.,"
+    },
+    {
+        "Question": "What is Market Capitalization?",
+        "Answer": "Market capitalization refers to the  total rupee market value  of a company's outstanding  shares  of stock."
+    },
+    {
+        "Question": "How are stocks classified based on their market capitalization?",
+        "Answer": "Equity shares listed on stock exchanges are classified into Large capitalised stocks (Large cap stocks), Medium capitalised stocks and Small capitalised stocks.  This indicates the extent of capitalisation of the company . The classification based on market capitalisation is expla ined in the next question."
+    },
+    {
+        "Question": "What is a large -cap mutual fund scheme?",
+        "Answer": "Large cap mutual fund schemes are those which predominately invest into Large cap stocks with a minimum investment of 80% of total assets in large cap stocks."
+    },
+    {
+        "Question": "How mutual funds are classified on the basis of the management of the portfolio?",
+        "Answer": "Mutual funds are classified as Active funds and passive funds on the basis of how the portfolio is managed."
+    },
+    {
+        "Question": "What is a value fund?",
+        "Answer": "An open -ended equity scheme following a value investment strategy."
+    },
+    {
+        "Question": "What is a contrarian investment strategy?",
+        "Answer": "Contrarian investing is an  investment style  in which investors purposefully go against prevailing market trends by selling when others are  buying, and buying when most investors are selling . Contrarian investors typically seek out distressed stocks or short existing market trends in a bull market focused on \"hot\" stocks that receive media attention or prevailing market dynamics."
+    },
+    {
+        "Question": "What is a  contra fund?",
+        "Answer": "An open -ended equity scheme following contrarian investment strategy."
+    },
+    {
+        "Question": "What is a medium duration fund?",
+        "Answer": "An open - ended medium term debt    scheme    inve sting    in instruments     with maturity between 3 years and 4 years."
+    },
+    {
+        "Question": "What is a short duration Fund?",
+        "Answer": "An open -ended short -term debt scheme investing in instruments with maturity  between 1 year and 3 years.  Page 13 of 73"
+    },
+    {
+        "Question": "What is a low duration fund?",
+        "Answer": "An open -ended low duration debt    scheme    investing    in instruments     with     Macaulay duration between 6 months and 12 months."
+    },
+    {
+        "Question": "What is an overnight fund?",
+        "Answer": "An open -ended debt scheme investing in overnight securities"
+    },
+    {
+        "Question": "What is a Liquid fund?",
+        "Answer": "Liquid fund invests in Deb t and money market securities with maturity of up to 91days only."
+    },
+    {
+        "Question": "What is a Dynamic bond fund?",
+        "Answer": "An open -ended dynamic debt scheme investing across duration."
+    },
+    {
+        "Question": "What are the different plans to invest in mutual funds?",
+        "Answer": "There are two plans while opting to invest."
+    },
+    {
+        "Question": "What is Direct Plan Mutual Funds?",
+        "Answer": "In 2013, SEBI introduced \u2018Direct Plan\u2019 which has enabled investors to make independent investment choices. Hence, this step is regarded as a cornerstone reform in the mutual fund sector. In direct plans Asset Management Companies  (AMC) do not charge distributor expenses  and have lower expense ratio."
+    },
+    {
+        "Question": "What is Regular Plan Mutual Funds?",
+        "Answer": "In a regular plan, mutual funds pay a sales commission to the middlema n or brokers, who bring business to them."
+    },
+    {
+        "Question": "What are the modes of investment in mutual funds?",
+        "Answer": "There are two modes of investments in mutual funds"
+    },
+    {
+        "Question": "What is a Systematic Investment Plan (SIP)?",
+        "Answer": "A SIP is an option of investing a fixed sum in a mutual fund scheme on a regular basis i.e. predefined regular i nterval. It is similar to regular saving schemes like a recurring deposit."
+    },
+    {
+        "Question": "In what frequency one can invest in SIP?",
+        "Answer": "In a SIP, the investment can be done regularly on specific intervals, either weekly or monthly or quarterly."
+    },
+    {
+        "Question": "What is Lump sum investing in mutual funds?",
+        "Answer": "A lump sum is a single large investment done by an investor in one go in any mutual fund scheme."
+    },
+    {
+        "Question": "When can you choose to invest in lumpsum?",
+        "Answer": "A lump sum amount is best if you have surplus cash that you\u2019re looking to inve st."
+    },
+    {
+        "Question": "When can you choose to invest through SIP?",
+        "Answer": "SIP is best when you want to invest small amounts every month.  Page 21 of 73"
+    },
+    {
+        "Question": "What is the minimum investment needed to start a SIP?",
+        "Answer": "Some mutual funds allow investing in SIP can be started as low as Rs. 100. In most cases, the minimum investment is Rs. 500"
+    },
+    {
+        "Question": "What is the minimum investment needed for lumpsum?",
+        "Answer": "The minimum investment is as low as Rs.100 depending on the fund house."
+    },
+    {
+        "Question": "What is a Systematic Transfer Investment Plan?",
+        "Answer": "An STP or Systematic Transfer Plan moves a fixed amount of money from one mutual fund to another at regular intervals. An STP or Systematic Transfer Plan moves a fixed amount of money from one mutual fund to another at regular intervals."
+    },
+    {
+        "Question": "What are to be mentioned in the form for STP?",
+        "Answer": "In the STP form, you have to specify the date of the STP, the duration of the STP and the amount of the STP. For example, an STP of Rs 5,000 on the 15th of each month for a tenure of 1 year."
+    },
+    {
+        "Question": "What is an OTM?",
+        "Answer": "An OTM, or \u2018One Time Mandate\u2019 is a one -time registration process wherein the investor authorizes his banker to execute debits to his bank account up to a certain limit based on requests received from the  mutual fund company."
+    },
+    {
+        "Question": "What are the details which have to be mentioned in the OTM form?",
+        "Answer": "In an OTM form, the investor  need s to mention the folio number, application number, phone number, email ID, the amount in Rupees and the period."
+    },
+    {
+        "Question": "Is there any lock -in period while investing in mutual funds?",
+        "Answer": "Yes, there is a 3 -year lock -in period while investing in tax saving mutual funds."
+    },
+    {
+        "Question": "Why can\u2019t an investor  invest in mutual funds without having a PAN card number?",
+        "Answer": "As per SEBI\u2019s directives and mandatory requirements, the investor s are permitted to invest in units of mutual fund schemes only if  they have a valid Permanent Account Number. The investor  will need to apply for and get a registered PAN card before own ing mutual fund investment units."
+    },
+    {
+        "Question": "What do the investor has to  keep in mind while filling up my mutual fund investment",
+        "Answer": "While filling the mutual fund investment form, make sure the following details are provided correctly and clearly such as the Name, address, number of units applied for, other Page 22 of 73 required de tails and the correct bank account number to prevent fraudulent transactions as well as encashment."
+    },
+    {
+        "Question": "Which are the documents needed for investing in mutual funds?",
+        "Answer": "To start investing in a mutual fund scheme, a few things  are need ed. Such as the Pan card, bank account and the investor should be KYC compliant. The bank account should be in investor\u2019s  name along with MICR and IFSC details."
+    },
+    {
+        "Question": "What is IFSC?",
+        "Answer": "IFSC is an 11 -digit alpha -numeric code that uniquely identifies a bank -branch participating in any RBI regulated funds transfer system.  It can be seen on every cheque and also on the name details page of passbook ."
+    },
+    {
+        "Question": "What is MICR?",
+        "Answer": "MICR Code is used  in the processing of cheques by machines. This code enables faster processing of cheques.    Page 23 of 73"
+    },
+    {
+        "Question": "Which are the two ways in which an investor can complete the IPV (in -person",
+        "Answer": "An investor can complete the IPV by either visiting any of the fo llowing institutions or submitting the original documents or through videoconferencing at a pre -agreed time with the concerned intermediary."
+    },
+    {
+        "Question": "How many days does it take to complete the in -person - verification?",
+        "Answer": "The IPV usually gets completed within 5 -7 days, post the submission of the mutual fund application form. The investment amount should also be submitted along with the application form."
+    },
+    {
+        "Question": "Who should the investors  con tact in order to invest in mutual funds offline?",
+        "Answer": "Representatives of the mutual fund company or an empaneled distributor should be contacted."
+    },
+    {
+        "Question": "Who is a mutual fund distributor?",
+        "Answer": "Distributors are agents of mutual fund companies who sell products of mutual fund houses to the prospective investors."
+    },
+    {
+        "Question": "Who can be a mutual fund distributor?",
+        "Answer": "A Mutual Fund Distributor may be an individual or a non -individual entity, such as a bank, brokering house or on -line distribution channel provider."
+    },
+    {
+        "Question": "Is there any single platform to buy Mutual Funds?",
+        "Answer": "Yes, Mutual fund transaction portal, MFU (Mutual Fund Utilities)  is a single -window for you to transact across mutual fund schemes."
+    },
+    {
+        "Question": "What is CAN (Common Account Number)?",
+        "Answer": "CAN is a unique reference number issued by MFU. It maps all existing mutual fund folios across fund houses (participating in MFU), thereby providing the investor  with a consolidated view of all your mutual fund investments."
+    },
+    {
+        "Question": "How is CAN different from Mutu al Fund folio?",
+        "Answer": "CAN is similar to a Mutual Fund Folio, the only difference, while the folio is limited to one fund house, the CAN is applicable across fund houses of a single type of holding."
+    },
+    {
+        "Question": "Are there any additional charges to pay if investing through Mutual Funds Util ities",
+        "Answer": "There is no additional charge for mutual fund investments made through this portal. The cost of the platform is shared by the participating fund houses."
+    },
+    {
+        "Question": "Can NRI invest in Indian mutual funds?",
+        "Answer": "Yes, NRI can invest in Indian Mutual f unds."
+    },
+    {
+        "Question": "Can NRI invest in foreign currency in Indian mutual funds?",
+        "Answer": "No, Mutual funds companies don\u2019t accept foreign currency. An Non Resident External (NRE) or Foreign Currency Non -Resident  (FCNR) account with an Indian bank is needed."
+    },
+    {
+        "Question": "What are the KYC documents needed for verification in case of NRI?",
+        "Answer": "KYC documents must include recent Photograph, Pan card, passport, residence proof of outside India and bank statement."
+    },
+    {
+        "Question": "Do all mutual f unds houses allow NRI\u2019s of USA and Canada to invest in Indian mutual",
+        "Answer": "Not all mutual funds houses allow NRI\u2019s from USA and Canada because of compliance requirements under the Foreign Account Tax Compliance Act (FATCA)."
+    },
+    {
+        "Question": "What is mutual fund redemption?",
+        "Answer": "Mutual fund redemption  is how the investors sell their fund units."
+    },
+    {
+        "Question": "When to exit and redeem a fund?",
+        "Answer": "There is no recommend time frame to redeem a fund units but may be redeemed if m oney is needed, or when investor is of the opinion that it does not want to stay in the scheme any longer."
+    },
+    {
+        "Question": "How can one select a mutual fund scheme?",
+        "Answer": "One can select a mutual fund scheme on the basis of investment time horizon, risk appetite and financ ial goals and past performance of the scheme . Some schemes levy exit load; that may also be considered while investing."
+    },
+    {
+        "Question": "Who are independent financial advisors?",
+        "Answer": "IFA\u2019s or Independent Financial Advisers are professionals who offer their advice and views on financial matters, which also includes mutual fund investments. They help you fill the application form and other formalities for the same."
+    },
+    {
+        "Question": "What is the importan t thing to look for in investment advisors?",
+        "Answer": "One has to make sure they are registered as \u2018Investment Advisers\u2019 under the Securities and Exchange Board of India (SEBI). Page 25 of 73"
+    },
+    {
+        "Question": "What is NFO?",
+        "Answer": "A New Fund Offer or NFO refers to the first subscription offering that is made to interested parties for any new funds which are offered by investment companies."
+    },
+    {
+        "Question": "Is NFO the same as an IPO?",
+        "Answer": "Yes, an NFO is akin to an IPO, that it is launched to raise funds. The only difference is that an IPO refers to the sale of a company\u2019s shares before its listing on a stock market exchange, whereas, an NFO is the first subscription offer for the units of a new mutual fund scheme. The NFOs are usually launched as limited period offers."
+    },
+    {
+        "Question": "What criteria are to be considered while investing in NFO?",
+        "Answer": "Points to be considered while investing in NFO are - Track Record of the Fund House, Track Record of the Fund  Manager, Costs Associated with the Scheme and Tax implications. V. Accounting"
+    },
+    {
+        "Question": "What is NAV or Net Asset Value??",
+        "Answer": "NAV or Net Asset Value is equal to Unit holder\u2019s fund in the scheme (Net Assets) divided by number of outstanding units."
+    },
+    {
+        "Question": "How is NAV computed?",
+        "Answer": "NAV can be computed as \u2013 (Current value of investments held + Income accrued+ Current Assets \u2013 Current Liab ilities - Accrued Expenses)/ Number of Outstanding Units."
+    },
+    {
+        "Question": "How frequently the NAV of mutual fund is calculated?",
+        "Answer": "The calculation of Net asset value (NAV) is done on daily basis."
+    },
+    {
+        "Question": "How frequently NAV or Net Asset Value published and where??",
+        "Answer": "The NAV o f schemes shall be published on a daily basis by the Mutual Funds at least in two daily newspapers."
+    },
+    {
+        "Question": "Up to how many decimal places NAV can be calculated?",
+        "Answer": "NAV is to be calculated up to 4 decimal places in the case of index funds and all types of debt funds. NAV for equity and balanced funds is to be calculated up to at least 2 decimal places."
+    },
+    {
+        "Question": "How many classes of units can be launched in the same mutual fund scheme?",
+        "Answer": "Asset management companies, Trustee Company or sponsor may launch schemes either on a \u201cload\u201d or \u201cno -load basis\u201d, or on a mixed basis with two classes of units in the same scheme - one with load and the other without load."
+    },
+    {
+        "Question": "Are income and expense charges included for the computation of NAV?",
+        "Answer": "All expenses and incomes accrued up to the valuation date shall be considered for computation of net asset value. For this purpose, while major expenses like management fees and other periodic expenses should be ac crued on a day -to-day basis, other minor expenses and income need not be so accrued, provided the nonaccrual does not affect the NAV calculations by more than 1%."
+    },
+    {
+        "Question": "Can initial issue expense be charged against the scheme?",
+        "Answer": "Initial issue expense incurred  during new fund offer cannot be charged to the scheme instead this expense is borne by the AMC or the sponsors."
+    },
+    {
+        "Question": "What is expense ratio?",
+        "Answer": "Expense ratio is the cost of running and managing a mutual fund which is charged to the scheme."
+    },
+    {
+        "Question": "What includes expense ratio?",
+        "Answer": "All expenses such as Fees to registrars/Transfer agent, Fees to trustees, custodian and auditor, Brokerage, marketing expen ses, commission to distributors, Investor communication expenses, Listing and depository fees, Insurance premium, Investment fees and advisory fees, winding form part of the expense ratio. In case of Debt fund the cost of credit rating is allowed, in case of Gold ETFs cost of storage and handling of gold can be charged to the scheme expense."
+    },
+    {
+        "Question": "Is there a limit to total expense s that can be charged to a scheme?",
+        "Answer": "All expenses incurred by Mutual fund AMC will have to be managed within the limits specified u nder the Regulation of 52 of SEBI mutual fund regulations."
+    },
+    {
+        "Question": "Does Total Expense Ratio (TER) have any impact on scheme\u2019s NAV?",
+        "Answer": "The daily NAV of mutual fund is disclosed after deducting the expenses thus TER has a direct bearing on Scheme\u2019s NAV. The lower  the expense ratio higher the NAV."
+    },
+    {
+        "Question": "When are the transactions for purchase and sale of investment recognised in mutual",
+        "Answer": "Transactions for purchase or sale of investments should be recognised as of the trade date and not as of the settlement date. This is done so that the effect of all investments traded during a financial year are recorded and reflected in the financial sta tements for that year. Page 27 of 73"
+    },
+    {
+        "Question": "When are the investment transactions recognised in mutual fund schemes that",
+        "Answer": "The investment transactions that take place outside the stock market, for example, acquisitions through p rivate placement or purchases or sales through private equity, should be recorded in the event of a purchase, as of the date on which the scheme has an obligation to pay the price or in the event of a sale."
+    },
+    {
+        "Question": "Should Asset Management Company maintain books of accounts?",
+        "Answer": "Yes, every asset management company for each scheme shall keep and maintain proper books of account, records and documents. This is done so as to explain its transactions and to disclose at any point of time, the financial position of each scheme."
+    },
+    {
+        "Question": "When does the financial year for mutual fund schemes end?",
+        "Answer": "The financial year for all schemes shall end on March 31st of each year."
+    },
+    {
+        "Question": "When does the financial year end for a scheme that commenced in the middle of a",
+        "Answer": "If the scheme commenced during a financial year the disclosure and reporting requirement would apply for the period beginning from the date of its commencement and ending on March 31st."
+    },
+    {
+        "Question": "How does a mutual fund declare dividends?",
+        "Answer": "A mutual fund may  declare dividends in accordance with the offer document and subject to such guidelines as may be specified by SEBI . The dividend warrant has to be dispatched within 30 days of the declaration of dividend."
+    },
+    {
+        "Question": "Is the AMC liable in case of delay in payment of dividend?",
+        "Answer": "Yes, the AMC is liable in case of delay in payment of dividend.  It is liable to pay interest to the unitholders at such rate as may be specified by the regulator  for the period of such delay."
+    },
+    {
+        "Question": "Is the AMC liable for failure to di spatch the redemption or repurchase proceeds?",
+        "Answer": "The AMC may be further liable for penalty for failure to dispatch the redemption or repurchase proceeds within the stipulated time."
+    },
+    {
+        "Question": "Do Asset Management Company prepare annual report?",
+        "Answer": "Every mutual fu nd or the asset management company shall prepare in respect of each financial year an annual report and annual statement of accounts of the schemes and the fund."
+    },
+    {
+        "Question": "Are the financial statements of AMC audited?",
+        "Answer": "Yes, every mutual fund shall have the annu al statement of accounts audited by an auditor who is not in any way associated with the auditor of the asset management company.  Page 28 of 73"
+    },
+    {
+        "Question": "Who appoints the auditor for the audit of the financial statements of AMC?",
+        "Answer": "An auditor shall be appointed by the trustee s for the audit of the financial statements of AMC."
+    },
+    {
+        "Question": "Are the copies of the annual report made available to all the investors?",
+        "Answer": "The scheme wise Annual Report of a mutual fund or an abridged summary shall be provided to all unitholders as soon as or may be but not later than four months from the date of closure of the relevant accounts."
+    },
+    {
+        "Question": "Can mutual funds invest in the Units of REIT s and INVITs?",
+        "Answer": "Yes, a mutual fund can invest in Units of REITs and INVITs."
+    },
+    {
+        "Question": "Can a scheme invest in another scheme under the same asset management",
+        "Answer": "Yes, a scheme may invest in another scheme under the same asset management company or any ot her mutual fund without charging any fees."
+    },
+    {
+        "Question": "At which price a security is valued in a scheme portfolio?",
+        "Answer": "A security is valued at the last quoted closing price on the principal stock exchange where it is traded."
+    },
+    {
+        "Question": "At which price a security is valued if it  is not traded on a particular date?",
+        "Answer": "If a security is not traded on a particular date, then it will be valued on the closing price at which it was traded on the earliest previous day."
+    },
+    {
+        "Question": "What is a thinly traded equity security?",
+        "Answer": "A thinly traded security is one where the volume traded is less than 50,000 and value traded is less than Rs Five Lakhs in a month."
+    },
+    {
+        "Question": "What is the maximum limit of illiquid securities (non -traded or thinly traded security)",
+        "Answer": "Illiquid securit ies shall not exceed 15% of the total assets of the scheme."
+    },
+    {
+        "Question": "How are Exchange Traded Funds (ETFs) valued?",
+        "Answer": "Exchange Traded Funds or ETFs are valued at closing market prices available on the stock exchange, NSE or BSE."
+    },
+    {
+        "Question": "Who decides the valuation methodo logies for the underlying securities?",
+        "Answer": "SEBI decides the valuation methodology of the underlying securities. This policy and procedures of the valuation are reviewed at least once by the AMC in a financial year by an internal auditor.                            VI. Performance measurement of a Mutual Fund"
+    },
+    {
+        "Question": "How  to do the performance measurement of  a mutual fund?",
+        "Answer": "One can begin the performance measurement of a mutual fund by comparing the fund\u2019s return with the benchmark return. Further the returns of the mutual fund can be compared with that of its peers."
+    },
+    {
+        "Question": "Define rate of return?",
+        "Answer": "Rate of return has many definitions. Investor needs to know the purpose for which the return is calculated. Accordingly, he/she can use an appropriate measure for the rate of return. Many of these measures are discussed in the below listed questions.  Page 30 of 73"
+    },
+    {
+        "Question": "Wha t is known as Holding period return or HPR?",
+        "Answer": "Holding period return is the total return received from holding an asset or portfolio of assets over a specified period of time, generally expressed as a percentage.  Holding -period -return (HPR), popularly known as point to point return is: HPR = (I + (E -B)) / B where, HPR = holding -period return, I = income (e.g. Dividend), E = ending price (or NAV at the time of exit) and B = beginning price (or NAV a t the time of entry)."
+    },
+    {
+        "Question": "Explain holding period return with an example.",
+        "Answer": "If an investor has purchased one unit of a mutual fund scheme on 1 April 2018,    for Rs."
+    },
+    {
+        "Question": "Which investment performed better:  Mutual Fund  X, which was held for three years",
+        "Answer": "Calculate Holding Period Return (HPR), HPR  for Fund  X= 5+(150\u2212100 ) = 55% 100 HPR  for Fund  B=10+(320\u2212200 )=65% 200 Fund B had the higher HPR, but it was held for four years, as opposed to the three years for which Fund X was held. Since the time periods are different, this requires annualized HPR to be calculated, Annualized HPR for Fund X= (0.55+1)^1/3\u22121= 15.73% Annualized  HPR  for Fund  B= (0.6 5+1)^1/4\u22121= 13.34% Thus, despite having the lower HPR, Fund X was the superior investment."
+    },
+    {
+        "Question": "Is holding period return widely used?",
+        "Answer": "Yes, holding period return measure is widely used and generally accepted indicator for performance comparison purposes. Th is is considered as the starting point of performance measurement exercise."
+    },
+    {
+        "Question": "What is Compounded Annual Growth Rate (CAGR)?",
+        "Answer": "Compound annual growth rate (CAGR) is the  rate of return  at which an initial  investment grows from its beginning date to its e nding balance (or redemption date) , assuming the profits were reinvested at the end of each year of the investment\u2019s lifespan. The formula is, CAGR = (A / P) (1 / t) \u2013 1, Where \u2018A\u2019 is the closing wealth, \u2018P\u2019 is the opening wealth and \u2018t\u2019 is the time period in years Suppose Mutual Fund  X, which was held for three years was Rs.100 in the year 2015 which appreciated to Rs.125 in 2016, and to Rs.150 in 2017. Therefore the CAGR of fund X will be (150/100)(1/2)  \u2013 1 = 22.47%"
+    },
+    {
+        "Question": "How should the performance of mutual funds scheme be communicated?",
+        "Answer": "The performance of mutual fund scheme should be advertised in terms of Compounded Annual Growth Rate ( CAGR ) for the past 1 year, 3 years, 5 years and since inception.  In order to provide ease of understanding to retail investors, point -to-point returns on a standard investment of Rs.10,000/ -shall also be provided in addition to CAGR of the scheme."
+    },
+    {
+        "Question": "What is the Rupee -weighted rate of return?",
+        "Answer": "The Rupee -weighted rate of return  sets the initial value of an investment to equal the future cash flows such as dividends added, withdrawals, deposits, and the sale proceeds. It is calculated by finding the rate of return that will set the present values of all cash flows equal to the value of the initial investment. Each inflow or outflow must be discounted back to the present using a rate (r) that will make PV (inflows) = PV (outflows). Let\u2019s say an investor buys one unit of a fund for Rs.500 that pays an annual Rs .20 dividend and sell it after two years for Rs.650. Our rupee weighted rate of return will be a rate that satisfies the following equation: PV of Cashflows = 20 1+\ud835\udc5f + 20 (1+\ud835\udc5f)2 + 650 (1+\ud835\udc5f)3 = Rs.500 Solving for \u2018r' using a spreadsheet or financial calculator, we have a rupee weighted rate of return = 11.73%."
+    },
+    {
+        "Question": "What is Time -Weighted Return (TWR)?",
+        "Answer": "The time -weighted rate of return (TWR) is a measure of the compound rate of growth in a scheme."
+    },
+    {
+        "Question": "Why Time -Weighted Return (TWR) is often used to compare the returns of investment",
+        "Answer": "- The TWR measure is often used to compare the returns of  investment managers  because it eliminates the distorting effects on growth rates created by inflows and outflows of money. - The time -weighted return breaks up the return on an investment portfolio  into separate intervals based on whether money was added or withdrawn from the fund."
+    },
+    {
+        "Question": "How is Time -Weighted Return (TWR) calculated?",
+        "Answer": "To compute Time -Weighted Return (TWR) we first add one to each year\u2019s holding -period return to determine the return's  wealth relative. -  The formula to calculate TWR is: () 1 1/1 1 \u2212 \uf0fa\uf0fa\uf0fa\uf0fa \uf0fb\uf0f9 \uf0ea\uf0ea\uf0ea\uf0ea \uf0eb\uf0e9 ==+\uf0d5n in iTWR HPR  Where TWR = time -weighted rate of return, HPR i = holding period return for year i and n = number of years in measurement period 1 + HPR i = Wealth relative"
+    },
+    {
+        "Question": "Explain Time -Weighted Return (TWR) with an example.",
+        "Answer": "Now we know how to calculate wealth relative, i.e. (1 + HPR)  Year  HPR  Wealth Relative 2014  -0.05  0.95 2015  -0.15  0.85 2016  0.03  1.03 2017  0.31  1.31 2018  0.18  1.18 Product of wealth relative  1.28  TWR = (1.28) ^ (1/5) - 1 = 5.06%"
+    },
+    {
+        "Question": "What is a wealth ratio?",
+        "Answer": "A value equal to one plus the periodic rate of return.. This value is used to link returns in computing the  geometric average."
+    },
+    {
+        "Question": "When is it appropriate to use Time -Weighted Return (TWR)?",
+        "Answer": "TWR ignores the effect of intermediate cash flows. So, when the fund manager has no control on intermediate cash flows, TWR represents his performance better.  As this is the general situation in a mutual fund that is why TWR is preferred."
+    },
+    {
+        "Question": "What is arithmetic mean return?",
+        "Answer": "The average annual arithmetic return i s the simple average of individual total yearly returns . Eg. If a holding -period rate of return of -50 percent in the first year and 100 percent in the second year. Then arithmetic mean return is as follows, Arithmetic mean return = -50% + 100% 2 = 25%"
+    },
+    {
+        "Question": "What does the yearly return comprise of?",
+        "Answer": "The yearly return is the sum of, (1) The percentage gain (or loss) in the value of your portfolio due to changes in asset prices. (2) Any dividends or other cash distrib utions expressed as the percent of invested assets."
+    },
+    {
+        "Question": "What is the average annual geometric return?",
+        "Answer": "The average annual geometric return is the rate at which the sum you invested at the beginning of the period will accumulate to a given sum at the end o f the period by the process of compounding, or continuously reinvesting your dividends and capital gains."
+    },
+    {
+        "Question": "When are arithmetic and geometric mean different?",
+        "Answer": "Arithmetic and Geometric mean are different over longer holding periods and the geometric average return is always less than the arithmetic return except when all the individual\u2019s yearly returns are exactly the same, (i.e. the series has no dispersion) in which case the geometric return equals the arithmetic return."
+    },
+    {
+        "Question": "Which is the bes t method to estimate a future year\u2019s return based on random",
+        "Answer": "The best estimate of a future year's return based on a random distribution of the prior years' returns is the arithmetic average return. Statistically , it is our best guess for the holding - period return in a given year."
+    },
+    {
+        "Question": "When should one use arithmetic or geometric mean return?",
+        "Answer": "If one wishes to estimate the expected value of an investment over a multiyear horizon conditioned on past experience, he/ she should also use the arithmetic average and if, however, one wishes to estimate the probability distribution of terminal wealth then he/she should use the geometric average.  Page 34 of 73"
+    },
+    {
+        "Question": "What is risk?",
+        "Answer": "Risk in a generic sense is the possibility of loss, damage,  or harm. For investment a more specific definition of risk can be given. It refers to variability in the expected return."
+    },
+    {
+        "Question": "Is return the only performance measure of a fund manager\u2019s skill?",
+        "Answer": "No, Risk is the key dimension of the performance measuremen t, and a decisive factor in determining a fund manager\u2019s skill. One cannot make a judgment about how skilful  a manager is in a particular period by looking at return only."
+    },
+    {
+        "Question": "What is a riskometer?",
+        "Answer": "Riskometer  is a graphical representation of the risk a mutual fund carries. The graph is designed as per the Association of Mutual Funds in India (AMFI) guidelines."
+    },
+    {
+        "Question": "What are the different levels of risk in a riskometer?",
+        "Answer": "There are 5 levels of in a riskometer which are as follows Risk level  Colour  Suitable for Low  Green  Those who are risk -averse and give priority to their investment. Moderately low  Light green  Those who prefer to take nominal risks but also prioritise the safety of their investment. Moderate  Yellow  Those who prefer to invest longer than short -term and would be ready to undertake a certain degree of risk for slightly lucrative returns. Moderately high  Orange  Those who opt long for long -term investment and are ready to be exposed to some degree of risk. High  Red  These are ideal for high net worth individuals or aggressive investors who want to invest for long -term and don\u2019t mind the risk of incurring losses."
+    },
+    {
+        "Question": "What is standard deviation?",
+        "Answer": "Standard deviation is a measure of dispersion in return. It quantifies the degree to which returns fluctuate around their average. A higher value of standard deviation means higher dispersion."
+    },
+    {
+        "Question": "How to calculate standard deviation?",
+        "Answer": "- The formula to calculate standard deviation is, Page 35 of 73  () nxx SDn ii\uf0e5 =\u2212 =12 Where, xi = individual observations x = mean of observations n= number of observations It is basically the square root of variance.  Example: Suppose a mutual fund achieves the following annual rates of return over the course of five years: 4%, 6%, 8.5%, 2%, and 4%.  Mean of annual rate of returns = 4% + 6.5% + 8.5% + 2% + 4% = 4.9% 5 - Therefore, standard deviation is, \ud835\udc46\ud835\udc37= \u221a(4%\u22124.9%)2+(6%\u22124.9%)2+(8.5%\u22124.9%)2+(2%\u22124.9%)2+(4%\u22124.9%)2 5 SD= 2.46%. - That means that each individual yearly value is an average of 2.46% away from the mean."
+    },
+    {
+        "Question": "What is the general period for which standard deviation is calculated?",
+        "Answer": "Standard deviation is generally calculated for monthly returns ove r a specific time period usually 36 months. And, because most people think about returns on an annual not monthly basis the resulting number is then modified to produce an annualized standard deviation."
+    },
+    {
+        "Question": "Is a high standard deviation always a bad thing?",
+        "Answer": "No, supposedly a fund that alternately gained 5% or 25% each month would have a much higher standard deviation, but it would surely be a preferable investment compared to a mutual fund that lost 1% eac h and every month would also have a standard deviation of zero."
+    },
+    {
+        "Question": "What does a high standard deviation signify and is it a good proxy for measuring",
+        "Answer": "- Mathematically it is possible to have a high standard deviation of returns while exhi biting no downside risk, but in the real world, the larger the swings in a security's return the more likely it is to dip into negative territory. - Though standard deviation measures volatility on both the upside and the   downside, it's a good proxy for measuring the risk of loss with any security."
+    },
+    {
+        "Question": "What is the strength or advantage of standard deviation?",
+        "Answer": "One of the strengths of standard deviation is that is can be used across the board for any type of portfolio with any type of security. The calcul ation is the same for a portfolio of bonds as it is for a portfolio of growth stocks. Standard deviation allows portfolios with similar objectives to be compared over a particular time frame. Page 36 of 73"
+    },
+    {
+        "Question": "What is the excel function used to calculate standard deviation ?",
+        "Answer": "Standard deviation can be calculated using the \u2018STDEV\u2019 function in MS Excel. Since standard deviation can also be calculated using variance of a security. Use \u2018VAR\u2019 function to calculate variance and the use \u2018SQRT\u2019 function to get the square root of it."
+    },
+    {
+        "Question": "How to calculate annualized Standard deviation?",
+        "Answer": "If Standard deviation is calculated for monthly returns over a specific time period, to get the annualized Standard deviation  we have to multiply the calculated standard deviation by square  root of the number of months during a year i.e. 12. If Standard deviation is calculated for monthly returns then it should be multiplied by square root of 252 days (working days convention) or 365 days (calendar days convention)"
+    },
+    {
+        "Question": "How to interpret standard  deviation?",
+        "Answer": "If a fund has a monthly standard deviation of 3.27%. Suppose the monthly return of the scheme is 2%. This means in future: \u2022 There is 66.7% (1 Standard deviation on normal distribution chart) probability that the fund return would be betwee n 2% - 3.27% to 2%+3.27% \u2022 There is 95% (2 Standard deviation on normal distribution chart) probability that the fund return would be between 2% - 6.54% to 2% + 6.54%. \u2022 There is 99% (3 Standard deviation on normal distribution chart) probability that the fund return would be between 2% - 9.81% to 2% + 9.81%."
+    },
+    {
+        "Question": "What is Systematic risk?",
+        "Answer": "- Systematic  risk refers to the risk inherent to the entire market or  market segment. Systematic risk, also known as \u201cun -diversifiable risk or \u201cmarket risk\u201d. It affects t he overall market, and not just a particular stock or industry. This type of risk is cannot be mitigated through diversification."
+    },
+    {
+        "Question": "What is unsystematic risk?",
+        "Answer": "Risk that is specific to individual securities and sectors and can be diversified away hence an investor should not expect compensation for bearing this type of risk as per CAPM."
+    },
+    {
+        "Question": "How should a portfolio be evaluated in combination with other portfolios?",
+        "Answer": "When a portfolio is evaluated in combination with other portfolios, its excess return sh ould be adjusted by its systematic risk rather than by its total risk as per CAPM."
+    },
+    {
+        "Question": "What is Beta?",
+        "Answer": "Market risk is measured by Beta. Beta relates the return of a stock or mutual fund to a market index. It reflects the sensitivity of the fund\u2019s return to  fluctuations in the market index. . Beta is given by the formula, Beta = Covariance (Market -Index return, MF/Security return) Page 37 of 73 Variance (Market -Index return) Where, Covariance = How change in stock\u2019s return are moving to change in market\u2019s return. Variance = How far the market\u2019s data points spread out from their a verage value. Covariance (Market -Index, MF -Security) = Covariance between the index\u2019s   return and the mutual fund scheme\u2019s return. Var (Market -Index) = Variance in the index return. Example: Where, Ri = Return of individual security. Rm = Return of market. Beta = Covariance (Rm, Ri) Variance (Rm) Beta = 1.2"
+    },
+    {
+        "Question": "What are the parameters required to calculate beta of a mutual fund?",
+        "Answer": "Beta calculation requires two series of values for a reasonably long period of time, say 3 to 5 years. \u2022 One series of values would be the mutual fund scheme\u2019s NAV. \u2022 The second series would be the market index on all the  dates for which the NAV of the scheme has been considered."
+    },
+    {
+        "Question": "How can you calculate beta in Excel?",
+        "Answer": "It can be calculated using \u2018VAR\u2019 (Variance) and \u2018COVAR\u2019 (Covariance) functions in excel."
+    },
+    {
+        "Question": "How to interpret beta?",
+        "Answer": "A beta that is greater than one m eans that the fund or stock is more volatile than the benchmark index, while a beta of less than one means that the security is less volatile than the index. Example: - For a stock with beta 1.2 means that if the market moves up 10% then the stock will mov e up by 12% and vice -versa. \u2022 For a stock with beta 0.8 means that if the market moves up 10% then the stock will move up by 8% and vice -versa. Page 38 of 73 \u2022 For a stock with beta 1 means that if the market moves up 10% then the stock will move by 10% and vice -versa. It is in -line with the market."
+    },
+    {
+        "Question": "What does negative beta interpret?",
+        "Answer": "A negative beta indicates that the security is inversely correlate d to the market benchmark."
+    },
+    {
+        "Question": "What are the major methods of assessing risk -adjusted performance?",
+        "Answer": "The two major methods of assessing risk -adjusted performance are: - Return per unit of risk. - Differential return (Alpha)   explain alpha before you write this answer."
+    },
+    {
+        "Question": "What are the Return per unit of risk measures?",
+        "Answer": "The Return per unit of risk measures are: a) Sharpe ratio. b) Treynor ratio. They are majorly used for ranking fund\u2019s performance."
+    },
+    {
+        "Question": "Understanding Sharpe ratio with an example.",
+        "Answer": "An investor is considering investing in a blue -chip mutual fund which has returns of 15% over the last year. The current risk -free rate is 6% (10 -year Government T -bill), and the standard deviation of the portfolio\u2019s returns was 12%, Sharpe ratio = (15% - 3.5%) 12% Sharpe ratio  = 0.75 This suggests that the fund has generated 0.75 percentage point of return above the risk -free return for each unit of standard deviation. The greater the value of the Sharpe ratio, the more attractive the risk -adjusted return ."
+    },
+    {
+        "Question": "Is Sharpe ratio a measure of relative performance?",
+        "Answer": "Yes, the Sharpe ratio is a measure of relative performance, in the sense that it enables the investor to compare two or more investment opportunities. A fund with a higher Sharpe ratio in relation to another is preferable as it indicates that the fund has higher risk premium for every unit of standard deviation (risk)."
+    },
+    {
+        "Question": "When is Sharpe ratio more relevant to use?",
+        "Answer": "Sharpe ratio adjusts return to the total portfolio risk, the implicit assu mption of the Sharpe measure is that the portfolio will not be combined with any other risky portfolios. Thus, the Sharpe ratio measure is relevant for performance evaluation when we wish to evaluate several mutually exclusive portfolios."
+    },
+    {
+        "Question": "How to interpr et Sharpe ratio using an example",
+        "Answer": "Suppose the Sharpe ratio of Fund X is 1.5 and that of Fund Y is 2.75. Then in this case, it indicates that Sharpe ratio of Fund Y in relation to Sharpe ratio of Fund X is preferable as it indicates that the fund has hi gher risk premium for every unit of standard deviation (risk)."
+    },
+    {
+        "Question": "Explain Treynor ratio with an example.",
+        "Answer": "Assume that portfolio manager for a blue -chip mutual fund has returned 10.9 0% over the last year. The current risk -free rate is 6% (10 -year Government T-bill), and the beta of the fund was 0.74,   () pF pR RT\uf062\u2212= T = (10.9% - 6%)"
+    },
+    {
+        "Question": "When is Treynor ratio more relevant to use?",
+        "Answer": "As Treynor ratio indicates return per unit of systematic risk, it is a valid performance criterion when we wish to evaluate a portfolio for excess return per unit of market risk. Like Sharpe ratio it is too a measure of relative performance."
+    },
+    {
+        "Question": "What is differential return?",
+        "Answer": "It is one of the Risk -adjusted return measures. It is defined as the return that should be expected for the fund scheme given its risk and to compare that with the return actually realized over the period."
+    },
+    {
+        "Question": "What are considered as Differential risk -adjusted performance measures?",
+        "Answer": "The differential risk-adjusted performance  measures are: a) Jensen  alpha. b) Appraisal ratio. c) \ud835\udc402 Measures."
+    },
+    {
+        "Question": "What is Capital Asset pricing Model (CAPM)?",
+        "Answer": "The Capital Asset pricing Model (CAPM) is a widely used method to price risky securities and it assumes that risk consists of a systematic component and a specific component (unsystematic component) . The relevant risk for pricing the securities under CAPM is systematic risk."
+    },
+    {
+        "Question": "How is Jensen alpha calculated?",
+        "Answer": "Jensen Alpha can be formulated as:  ()()F B p F p R R R R \u2212\u2212\u2212= \uf062 \uf061 Where \ud835\udefc = the Jensen measure (alpha), Rp = portfolio return, RF = riskless return, \ud835\udefdp= portfolio beta and RB= benchmark return"
+    },
+    {
+        "Question": "Understanding Jensen alpha with an example.",
+        "Answer": "Example: Assume a mutual fund realized a return of 15% last year. The appropriate market index for this fund returned 12%. The beta of the fund versus that same index is 1.2, and the risk -free rate is 3%.  ()()F B p F p R R R R \u2212\u2212\u2212= \uf062 \uf061 Jensen Alpha = (15% - 3%) + 1.2 x (12% - 3%) = 12% - 10.8% = 1.2% *This positive Jensen alpha means that mutual fund manager earned more than required return for the risk he/she took over the course of the year."
+    },
+    {
+        "Question": "How to interpret alpha returns?",
+        "Answer": "A positive alpha means that return tends to be higher than required return given the beta statistic. Conversely, a negative alpha indicates that the fund is an under performer compared to the benchmark return. Alpha measures the value -added of the portfolio given its level of systematic risk."
+    },
+    {
+        "Question": "What is Appraisal ratio (Information Ratio)?",
+        "Answer": "Appraisal ratio is calculated by dividing alpha by the standard error (unsystematic risk). Page 42 of 73"
+    },
+    {
+        "Question": "How is Appraisal ratio formulated?",
+        "Answer": "Appraisal ratio can be formulated as,  cA\uf073\uf061= Where A = the appraisal ratio, \ud835\udefc = alpha and \ud835\udf0ec = the standard error (unsystematic risk).  Let's assume  Mutual Fund  XYZ has an alpha of 0.06 and an unsystematic risk of 0.60. Using this information and the formula above, Mutual Fund XYZ's appraisal ratio is   0.06 / 0.60 = 0.01."
+    },
+    {
+        "Question": "Who derived the \ud835\udc402 Measure and What is \ud835\udc74\ud835\udfd0 Measure?",
+        "Answer": "\ud835\udc402  Franco Modigliani and his granddaughter Lea Modigliani in the year 1997 derived a risk-adjusted performance measure. It is also known as Modigliani \u2013Modigliani measure. This measure  adjusts the risk of a particular portfolio so that it matches the risk of  the market portfolio and then calculating the appropriate return for that portfolio. The return that this adjusted portfolio earns is called M2."
+    },
+    {
+        "Question": "How is \ud835\udc402 Measure calculated?",
+        "Answer": "\ud835\udc402 Measure is calculated by, M2 = (\u03c3m / \u03c3mf) X (R mf \u2013 Rf) + R f, Where, \u03c3m is the standard deviation of the market \u03c3mf is the standard deviation of the scheme Rf is the risk -free return and Rmf is the return on the scheme.  Page 43 of 73"
+    },
+    {
+        "Question": "How to interpret \ud835\udc402 Measure?",
+        "Answer": "Since the standard deviations have been equalized, M2 can be directly compared with the return in the market. A high (low) M2 indicates that the portfolio has outperformed (under - performed) the market portfolio."
+    },
+    {
+        "Question": "Are measures involving beta appropriate to evaluate the perfo rmance of debt",
+        "Answer": "No, Beta is considered theoretically unsound for debt schemes as beta is based on the capital assets pricing model, which is empirically tested for equities."
+    },
+    {
+        "Question": "How interest rates impact the bond portfolio?",
+        "Answer": "Bonds prices  are sensitive to changes in market interest rates. Bond portfolio prices change in the opposite direction of changes in market rates of interest. As market rates of interest increase (decrease) the market values of the bond portfolios decrease (increase)."
+    },
+    {
+        "Question": "What is bond\u2019s duration?",
+        "Answer": "The price sensitivity of a bond to changes in interest rates is approximated by the bond's duration. Duration measures the average time required for the investor to receive the investment and the interest on it."
+    },
+    {
+        "Question": "Is the bond 's duration similar to the maturity of the bond?",
+        "Answer": "It is similar to the maturity of the bond except that the maturity only considers the timings and the amount of the final payment of a bond. Duration, on the other hand also considers the impact of the timing and magnitude of coupon payments."
+    },
+    {
+        "Question": "What is a z ero-coupon bond and its duration?",
+        "Answer": "A zero -coupon bond is a debt security that does not pay interest but instead trades at a deep discount, rendering a profit at maturity, when the bond is redeemed for its full -face value. Duration of a zero -coupon bond is the same as its maturity."
+    },
+    {
+        "Question": "What  is the relation ship  between duration and maturity of the bond?",
+        "Answer": "Bonds with long maturities and low coupons have the longest durations. These bonds are more sensitive to a change in market interest rates and thus are more volatile in a changing rate environment. Conversely, bonds with shorter maturity dates or higher coupons will have shorter durations. Bonds with shorter durations are less sensitive to changing rates and thus are less volatile in a changing rate environment."
+    },
+    {
+        "Question": "What is the signifi cance of duration?",
+        "Answer": "The significance of the duration is that greater the duration, more volatile is the portfolio\u2019s return in respect to changes in the level of interest rates.  Page 44 of 73"
+    },
+    {
+        "Question": "What is yield -to-maturity or YTM?",
+        "Answer": "Yield to maturity (YTM) is the to tal return anticipated on a bond if the bond is held until it matures. Yield to maturity is considered a long -term  bond yield  but is expressed as an annual rate. Basically, it is the  internal rate of return (IRR)  of an investment in a bond. Eg: Assume that there is a bond on the market priced at Rs. 850 and that the bond comes with a face value of Rs. 1,000 (a fairly common face value for bonds). On this bond, yearly coupons are Rs. 150. The  coupon rate  for the bond is 15% and the bond will reach maturi ty in 7 years.    Therefore, the YTM is 18.53%."
+    },
+    {
+        "Question": "How is the bond's duration calculated?",
+        "Answer": "Bond\u2019s duration is formulated as,  ()() ()()\uf0e5\uf0e5 == ++ +++ += n n tt i n t rM rCrnxM rTxC Duration 111 1 11 1 where C = semiannual coupon interest payment r = one -half the relevant market rate of interest n = number of years to maturity t = number of semiannual coupon payments M = principal value of the bond T = period in which cash flow is received * The duration measure calculated here is known as the Macaulay duration , named for Frederick Macaulay, who was among the first to use this measure in studying the returns on fixed -income securities. - The denominator in the duration formula is the market value of the bond. - The numerator, which at first glance appears similar to the denominator, weights the present value of each cash flow, C/ (1 + r)t  by the time period in which it is to be received. Bond Durat ion is proportional to the risk associ ated with the debt mutual funds. Debt funds with low duration are perceived to be less risky compared to Long duration funds because the risk of interest rates is low in low duration bond. So investors should be cautious while selecting a fund as per his/h er risk appetite. Page 45 of 73"
+    },
+    {
+        "Question": "What is known as modified duration?",
+        "Answer": "A slight variant to the Macaulay duration is known as modified duration. The modified duration of a bond helps investors understand how much a bond's price will rise or fall if the YTM rises or falls by 1%."
+    },
+    {
+        "Question": "How is modified duration calculated?",
+        "Answer": "Modified duration is formulated as, Macaulay duration Modified duration = 1 + r Where, r = Yield to maturity (YTM) (Annualized)"
+    },
+    {
+        "Question": "Understanding Modified duration with an example.",
+        "Answer": "Example: If Macaulay durati on of a bond is 2.684 and its Yield to maturity is 6% annualized. What is the modified duration? Modified Duration = Macaulay duration 1 + YTM = 2.684 / (1 + 6%) Modified Duration = 2.53 * In this case, if the YTM increases from 6% to 7% because interest rates are rising, the bond's value should fall by 2.53%. Similarly, the bond's price shoul d rise by 2.53% if the YTM falls from 6% to 5%."
+    },
+    {
+        "Question": "How to calculate a Bond portfolio\u2019s duration?",
+        "Answer": "Bond durations have the desirable property of being additive. As a result, the duration of an entire bond portfolio can be computed as the weighted average duration of each bond, where the weights are the proportion of the fund in each bond: Bond portfolio duration = \uf0e5 =n 1ii iD x W  Where n = number of bonds Wi = percent of the fund's value represented by each bond Di = duration of each bond"
+    },
+    {
+        "Question": "How is percentage price change in a bond portfolio calculated?",
+        "Answer": "% change in the price of a bond portfolio = Page 46 of 73 (-Modified duration) x (Change in interest rate in basis points)  The same change in interest rates affects a longer maturity debt security more than a shorter maturity debt security."
+    },
+    {
+        "Question": "Which maturity bond is riskier, and which is most preferred by an investor?",
+        "Answer": "Generally, yields on bonds increase as bonds' maturities increase. So, longer the maturity of the bond, higher is the yield but it also carries a higher amount of price and duration sensitivity. Bond Duration is proportional to the risk associated with the debt mutual funds. Debt funds with low duration are perceived to be less risky compared to Long duration funds because the risk of interest rates is low in low duration bond. Longer the duration more is the bond susceptible to interest rates and price fluctuations. So investors should be cautious while selecting a fund as per his/her risk appetite. The most preferred by an investors are lo w or short duration bonds."
+    },
+    {
+        "Question": "How is the performance measured of an index fund?",
+        "Answer": "Performance of an index fund be it debt index fund or equity index fund is measured by computing tracking error (TE)."
+    },
+    {
+        "Question": "What is tracking error (TE)?",
+        "Answer": "Tracking error is a statistic that indicates the divergence of the return of the fund from the index. Tracking error is given by, Tracking error (TE) = \u221a\ud835\udc49\ud835\udc4e\ud835\udc5f\ud835\udc56\ud835\udc4e\ud835\udc5b\ud835\udc50\ud835\udc52 (\ud835\udc45\ud835\udc5d\u2212\ud835\udc45\ud835\udc5a) Where, Variance = variance of the difference Rp = Return of the mutual fund portfolio Rm = Return on the appropriate index benchmark Example: Assume that there is a  large -cap index fund benchmarked to the Nifty 50 index. Next, assume that the mutual fund and the index realized the following returns over a given five -year period: \u2022 Mutual Fund: 11%, 3%, 12%, 14% and 8%. \u2022 S&P 500 index: 12%, 5%, 13%, 9% and 7%. Therefore, Tracking error = \u221a(11% \u221212% )2+(3% \u22125%)2+(12% \u221213% )2+(14% \u22129%)2+(8%\u22127%)2 5 - 1 Tracking error = 2.82% * Annualised TE is the standard measure of performance  of an index fund."
+    },
+    {
+        "Question": "What does low tracking error signify?",
+        "Answer": "Low tracking error indicate that the performance of the portfolio is close to the performance of the benchmark. Low error are common with index funds and ETFs t hat replicate the composition of major stock market indices."
+    },
+    {
+        "Question": "What does high tracking error signify?",
+        "Answer": "High errors reveal that the portfolio\u2019s performance is deviating from the performance of the benchmark. The high errors can indicate that the portfolio substantially beat the benchmark, or signal that the portfolio significantly underperformed the benchmark."
+    },
+    {
+        "Question": "Tracking error of which period is more important for a fund manager?",
+        "Answer": "A long -term trend TE should be calculated for a long period of time. In practical terms this would normally be 36 or 60 months. However, a fund manager is more likely to track his performance daily and make corrections to the fund periodically."
+    },
+    {
+        "Question": "What are the reasons for a higher Tracking error TE?",
+        "Answer": "The reason for the existence of TE is the expense ratio because funds have fees whereas indices  do not. Hence higher the expense ratio, more will be the tracking error. Time lag in replicating the index also contributes to tracking error."
+    },
+    {
+        "Question": "Do we need to make adjustments  while calculating return if load is present?",
+        "Answer": "Yes, adjustments are required to be made in the sale and redemption price for calculating actual rate of return if load is present."
+    },
+    {
+        "Question": "What price do funds tracking agencies use to measure the performance of the",
+        "Answer": "Funds tracking agencies calculate the performance of the funds on NAV basis."
+    },
+    {
+        "Question": "What is the portfolio turnover rate ?",
+        "Answer": "Portfolio turnover is a measure of how frequently securities within a fund are bought and sold by the managers. Portfolio turnover is calculated by taking either the total amount of new securities purchased or the number of securities sold (whicheve r is less) over a particular period, divided by the average  net assets of the fund. The measurement is usually reported for a 12 - month time period."
+    },
+    {
+        "Question": "What does a high turnover ratio imply?",
+        "Answer": "A high turnover ratio means high transaction costs due to  higher brokerages and settlement fees."
+    },
+    {
+        "Question": "Where is the low expense ratio observed?",
+        "Answer": "The lowest expense ratios are observed among liquid funds > in equity funds,  index funds and ETFs have lower expenses ratio because they are passively managed."
+    },
+    {
+        "Question": "Where is the high expense ratio observed?",
+        "Answer": "Actively managed  Equity funds have higher expense ratios than fixed income funds. Funds that invest internationally tend to have significantly higher expense ratios than do domestic portfolios, due to greater research and other costs associated with foreign investing."
+    },
+    {
+        "Question": "Where to find the expense ratio of a mutual fund scheme?",
+        "Answer": "An investor can check information on a scheme\u2019s expenses ratio in its offer document and Fact sheets."
+    },
+    {
+        "Question": "What is performance evaluation?",
+        "Answer": "Performance evaluation involves benchmarking and peer g roup analysis.  After measuring the performance, the next important step is to evaluate it against the fund\u2019s suggested benchmark to address more important issues like how the measured return measures up to the similar investment opportunities."
+    },
+    {
+        "Question": "What is b enchmarking?",
+        "Answer": "Benchmarking is the practice of comparing business processes and performance metrics (here mutual funds) to industry bests and best practices (indexes)."
+    },
+    {
+        "Question": "How  benchmarking mutual fund portfolios  is done ?",
+        "Answer": "Indices are used for benchmar king mutual fund portfolios."
+    },
+    {
+        "Question": "What is the important thing while selecting an index as a benchmark for an",
+        "Answer": "While selecting an index as a benchmark for equity portfolio it is important to ensure that the capitalization of the portfolio matches with that of the index. The second important aspect is the mix of stocks i.e., whether the index comprises all growth stocks or value stocks."
+    },
+    {
+        "Question": "What are the benchmarks used for debt -oriented schemes and balanced funds?",
+        "Answer": "For various types of debt -oriented schemes and balanced fund schemes SEBI in consultation with AMFI has arrived at specific indices."
+    },
+    {
+        "Question": "What is peer group analysis?",
+        "Answer": "Peer group analysis is simply ranking the fund manager performance. The term \u201cpeer group\u201d is generally applie d to a group of fund managers defined by a specific asset class or investment style. Peer group analysis is an extensively used tool of performance evaluation by the mutual fund industry."
+    },
+    {
+        "Question": "What does a peer group consist of?",
+        "Answer": "Generally, a peer group is the collection of the fund managers that are investing in the similar segment of the market, i.e., equity, fixed income or a mix of both. Peer groups can be more narrowly defined on the basis of style. Examples of style peer groups include funds making in vestments in large capitalization stocks, small capitalization, and sector specific investing like technology stocks etc."
+    },
+    {
+        "Question": "What should one do to track a fund\u2019s performance?",
+        "Answer": "- In order to make informed investment decisions, an investor should monitor t he performance of the schemes. - Tracking funds\u2019 performance involves recording the NAV on a regular basis, if not daily at least monthly or quarterly. - AMFI and many other sites, newspapers, especially business papers publish NAV information. Investors can use some appropriate measure of return and look at the performance of these funds."
+    },
+    {
+        "Question": "When and where are the mutual funds required to publish their financial",
+        "Answer": "The Securities and Exchange Board of India (Mutual Funds) Regulations, 1996 req uire the mutual funds to publish their half -yearly results in newspapers and disclosure of full portfolio on half -yearly basis within one month from the end of the half -year in one English daily newspaper circulating in the whole of India and in a newspape r published in the language of the region where the head office of the mutual fund is situated."
+    },
+    {
+        "Question": "Where and how mutual fund investors can check the performance of the funds?",
+        "Answer": "Investors can check the performance of the fund by looking at its fact sheet.  Factsheets are periodically (monthly) published by the mutual funds. The factsheets of the mutual funds are available through AMFI\u2019s site."
+    },
+    {
+        "Question": "What is Securities Transaction Tax (STT)?",
+        "Answer": "Securities Transaction Tax (STT) is a direct tax levied on every purchase and sale of securities that are listed on the recognized stock exchanges in India. Taxable securities include equity, derivatives, unit of equity oriented mutual fund ."
+    },
+    {
+        "Question": "What is Capi tal Gains Tax?",
+        "Answer": "Capital Gain can be defined as the difference between sale price and acquisition cost of the investment. The tax paid on these capital gains by the investors is called capital gains tax."
+    },
+    {
+        "Question": "Are capital gains classified into different categories?",
+        "Answer": "Yes, capital gains are classified into two heads: (a) Short Term Capital Gains and (b) Long Term Capital Gains."
+    },
+    {
+        "Question": "What is the tenor for short -term capital gains/investments in mutual fund schemes?",
+        "Answer": "The tenor for short -term inv estment in mutual fund schemes is based on two parts: (a) investment held for 12 months or less (Equity Oriented Schemes) and (b) investment held for 36 months or less (Other than Equity Oriented Schemes)."
+    },
+    {
+        "Question": "What is indexation?",
+        "Answer": "Indexation refers to ad justing the cost of acquisition, based on the cost of inflation index published by Central Board of Direct Taxes (CBDT). The formula for indexation is \u2013 Cost of Acquisition * (CII in the year of sale/CII in the year of purchase), where CII is Cost Inflati on Index."
+    },
+    {
+        "Question": "Which capital gain is applicable for indexation?",
+        "Answer": "Only long -term capital gain from Other than Equity Oriented Mutual Fund (debt funds, gold funds, etc.) can be indexed for inflation."
+    },
+    {
+        "Question": "How can investors apply for indexation benefits?",
+        "Answer": "In Other than equity oriented Mutual fund indexation benefit is given for long term capital gain (LTCG) i.e. 36 months or more and the tax rate is 20% with indexation.     VIII. Organizational Structure of Mutual Funds"
+    },
+    {
+        "Question": "Who mandates the structure of mutual funds in India?",
+        "Answer": "The legal structure of mutual fund is mandated by SEBI Mutual Fund Regulations 1996."
+    },
+    {
+        "Question": "How is a mutual fund organized in India?",
+        "Answer": "Mutual Fund in India is organised as a Trust under Public Trust Act in India.  SEBI regulations suggest model trust deed. The trustees of the trust can  be natural person (s) or a trustee company.  Most of the mutual funds in India opted for Trustee Company structure for appointing trustees. However, after launching a scheme, trust entrusts the management of the affairs of the mutual fund schemes to an As set Management Company (AMC) ."
+    },
+    {
+        "Question": "What is the primary role of trustees?",
+        "Answer": "The roles of trustees are: \u2022 The main role of a trustee is to ensure that the interest of the unit holders is protected while making sure that the mutual fund complies with all the regulations of SEBI. \u2022 The trustee must ensure that the AMC has put in place adequate systems for dealing, execution of purchase and sale orders, back off ice systems through appointment of RTA, proper checks and balances for new flows and redemptions etc. \u2022 The trust also ensures that all the key personnel of a mutual fund are appointed with adequate qualifications and skills. This includes the appointment of  critical employees like the CEO, CIO, fund managers etc. \u2022 The trustee is the custodian of the trust of millions of mutual fund investors."
+    },
+    {
+        "Question": "What is the structure of a mutual fund in India?",
+        "Answer": "The mutual fund in India is constituted with the following constituents:"
+    },
+    {
+        "Question": "Who is a sponsor?",
+        "Answer": "A sponsor \u2022 Initiates the process of setting up a mutual fund trust. \u2022 Establishes the fund  \u2013 registers and forms the trust  and also  appoints  the trustees . \u2022 Gets  the trust/mutual fund entity  registered with SEBI"
+    },
+    {
+        "Question": "Who regulates the Mutual funds industry in India?",
+        "Answer": "The Securities and Exchange Board of India (SEBI), the watchdog of Indian capital Market regulates the Mutual fund industry in India."
+    },
+    {
+        "Question": "How do mutual funds raise money?",
+        "Answer": "Mutual funds raise money through sale of units to the public."
+    },
+    {
+        "Question": "Are Mutual Funds allowed to invest in all asset classes?",
+        "Answer": "Mutual funds are permitted to invest only in securities and asset classes prescribed in the SEBI (Mutual Fund) Regulations."
+    },
+    {
+        "Question": "What kind of ownership do the Mutual fund investors hold?",
+        "Answer": "The Investors are the beneficial owner of their investment  represented by units held ."
+    },
+    {
+        "Question": "What are the terms and conditions of registration of a mutual fund ?",
+        "Answer": "The registration granted to a mutual fund under regulation 9, shall be subject to the following terms and conditions a. the trustees, the sponsor, the asset management company and the custodian shall comply with the provisions of these regulations b. the mutual fund shall forthwith inform the Board, if any information or particulars previously submitted to the Board was misleading or false in any material respect c. the mutual fund shall forthwith inform the Board, of any material change in the information or particulars previously furnished, which have a bearing on the registration granted by it d. payment of fees as specified in the regulations and the Second Schedule."
+    },
+    {
+        "Question": "What is the meaning of Sound -track record in the registration eligibility criteria?",
+        "Answer": "For the purposes of this clause \u201csound track record\u201d shall mean the sponsor should a) be carrying on business in financial services for a period of not less than five years b) the net worth is positive in all the immediately preceding five years c) the net worth in the immediately preceding year is more than the capital contribution of the sponsor in the asset management company d) the sponsor has profits after providing for depreciation, interest and tax in three out of the immediately preceding five ye ars, including the fifth year."
+    },
+    {
+        "Question": "What are the norms for Shareholding and governance for a sponsor in mutual",
+        "Answer": "No sponsor of a mutual fund, its associate or group company including the asset management company of the fund, through the schemes of the mutual fund or otherwise, individually or collectively, directly or indirectly, have a. 10% or more of the share -holding or voting rights in the asset management company or the trustee company of any other mutual fund b. representation on the board of the asset management comp any or the trustee company of any other mutual fund"
+    },
+    {
+        "Question": "Can the Unit ho lders Challenge the Trustee\u2019s action?",
+        "Answer": "In a trust structure, the beneficial owner has no power to challenge the bone fide  actions of the trustee. Given this, the effectiveness of the trust structure depends on how trustworthy the trustees are.  Certain decisions of mutual funds can be questioned through Unit holders meeting specifically called for the purpose.  (check regula tions please) Sudden jump to custodians \u2013 please complete questions relating to amc before going to custodians."
+    },
+    {
+        "Question": "What is the prescribed structure of Board of AMC ?",
+        "Answer": "The board of directors of an asset management company has at least fifty per cent directors, who are not associate of, or associated in any manner with , the sponsor or any of its subsidiaries or the trustees."
+    },
+    {
+        "Question": "Is there any Minimum Net worth threshold for Asset Management Companies",
+        "Answer": "Yes, Regulation 21(f) states that the asset management company has a net worth of not less than rupees 50 Crore (fifty crore)."
+    },
+    {
+        "Question": "Can the controlling interest in an AMC be changed?",
+        "Answer": "No change in the controlling interest of the AMC shall be made unless a. prior approval of the trustees and the Board is obtained b. a written communication about the proposed change is sent to each unit holder and an advertisement is given in one English daily newspaper having nationwide circulation and, in a newspaper, published in the language of the region where the Head Office of the mutual fund is situated c. the unit holders  are given an option to exit on the prevailing Net Asset Value without any exit load."
+    },
+    {
+        "Question": "What is meant by back office?",
+        "Answer": "The back office is the portion of a company made up of administration and support personnel who are not client -facing. Back -office functions include settlements, clearances, record maintenance, regulatory compliance, audit and accounting, and IT services. For example, a financial services firm is segmented into three parts: the  front office  (e.g., sales, marketing, and customer support), the  middle office  (risk management), and the back office (administrative and support services).  Page 58 of 73"
+    },
+    {
+        "Question": "What are the requirements of back office to launch a scheme?",
+        "Answer": "Dealing room, accounting, compliance and investor grievance redressal, appoint all key personnel including fund manager(s) for scheme(s), appoint a compliance officer to take care of regulatory requirement and investor complaints, prepare a compliance man ual and design internal control mechanisms including internal audit systems, institute a mechanism for handling investor complaints,  appoint registrars and custodian and lay down parameters for their supervision, lay down norms for empanelment of brokers  and marketing agents and appoint auditors."
+    },
+    {
+        "Question": "Who are K ey Managerial personnel\u2019s in an AMC ?",
+        "Answer": "Key Managerial Personnel refers to a group of people who are in charge of maintaining the operations of the company. Key Managerial Personnel (KMP) are people who have authority and responsibility for planning, directing and controlling the activities of the reporting enterprise. ( e.g.  Whole time director, CIO, CFO, etc.)"
+    },
+    {
+        "Question": "Is there any requirement of discloser related to Key personnel of AMCs?",
+        "Answer": "The bio -data of all the key personnel should be filed with SEBI and an undertaking given by the trustees/board of directors of the AMC, the AMC would file half yearly statements of dealings in securities by the persons identified as key personnel in the A MC or the Trustee Company."
+    },
+    {
+        "Question": "Why do Mutual funds need stringent rules and regulations?",
+        "Answer": "Mutual fund schemes are repositories of trust and of investors' hard -earned money. With SEBI (Mutual Fund) regulations, all mutual funds have been brought under a common regulatory framework to ensure greater degree of transparency in their operations . Mutual funds deal with investments of public who invest with faith in professional management of investments; mutual funds are formed as pass through vehicles \u2013 pass the market risks to investors; Therefore,  regu lation s prescribe  a framework  designed to protect the interests of the investors, and ensure that each mutual fund scheme is managed   strictly in acco rdance with the stated objective and investment strategy."
+    },
+    {
+        "Question": "How do SEBI Mutual fu nd regulation address various governance issues  and",
+        "Answer": "The existing SEBI Mutual Fund Regulations have tried to address the issue, through separation of various entities which constitute a mutual fund - sponsor, trustees, asset management companies and custodian."
+    },
+    {
+        "Question": "What are fundamental attr ibutes of a scheme ?",
+        "Answer": "The fundamental attributes of the scheme are the objectives, structure, investment pattern, etc.  Page 59 of 73"
+    },
+    {
+        "Question": "What needs to be done in case of any change in Fundamental attribute of the",
+        "Answer": "The trustees shall ensure that no change in the fundamental attributes of any scheme or the trust or fees and expenses payable or any other change which would modify the scheme and affects the interest of unit holders is carried out without the consent of unit  holders and the unit holders are given an option to exit at the prevailing Net Asset Value (NAV) without any exit load."
+    },
+    {
+        "Question": "What is a  Scheme information document  (SID) ?",
+        "Answer": "A Scheme information document (SID)  provides essential information about the scheme in a way that will assist investors in making informed decisions about whether to purchase the units being offered."
+    },
+    {
+        "Question": "What are the measures taken for advertising a MF scheme?",
+        "Answer": "The offer document and advertisement materials shall not be misleading or contain any statement or opinion, which is incorrect or false. These steps ensure that potential inv estors are aware of the benefits as well as the potential risks involved in mutual fund investing, SEBI has prescribed an advertisement code. Advertisements in respect of every scheme shall be in conformity with the Advertisement Code."
+    },
+    {
+        "Question": "Is the listing of all close ended schemes mandatory?",
+        "Answer": "Listing of close ended scheme is mandatory except a. if the said scheme provides for periodic repurchase facility to all the unit holders with restriction, if any, on the extent of such repurchase b. if the said scheme provides for monthly income or caters to special classes of persons like senior citizens, women, children, widow s or physically handicapped or any special class of persons providing for repurchase of units at regular intervals c. if the details of such repurchase facility are clearly disclosed in the offer document d. if the said scheme opens for repurchase within a perio d of six months from the closure of subscription e. if the said scheme is a capital protection -oriented scheme"
+    },
+    {
+        "Question": "What are the rules regarding refund of application money?",
+        "Answer": "The mutual fund and AMC shall be liable to refund the application money to the applicants if the mutual fund fails to receive the minimum subscription amount a. if the moneys received from the applicants for units are in excess of subscription Any amount refundable shall be refunded within a period of five working days from the date of closure of subscription list, In the event of failure to refund the amounts within the period specified in sub - regulation (3), the asset management company shall  be liable to pay interest to the applicants at a rate of fifteen per cent per annum from the expiry of five working days from the date of closure of the subscription list"
+    },
+    {
+        "Question": "Can a mutual fund scheme offer guaranteed return?",
+        "Answer": "No guaranteed return shall be provided in a scheme a. unless such returns are fully guaranteed by the sponsor or the AMC b. unless a statement indicating the name of the person who will guarantee the return, is made in the offer document c. The manner in which the guarantee is to be met has been stated in the offer document."
+    },
+    {
+        "Question": "Are Mutual funds allowed to launch a capital protection fund?",
+        "Answer": "A capital protection -oriented scheme may be launched, subject to the following a. the units of the scheme are rated by a registered credit rating agency from the viewpoint of the ability of its portfolio structure to attain protection of the capital invested therein b. the scheme is close ended c. there is compliance with such other require ments as may be specified by the SEBI in this behalf   check out if you have reproduced the regulation well enough."
+    },
+    {
+        "Question": "What are the instrume nts that mutual funds can invest in ?",
+        "Answer": "Subject to other provisions of these regulations, a mutual fund may invest moneys collected under any of its schemes only in a. Securities b. money market instruments c. privately placed debentures d. securitized debt instruments, which are either asset backed,  or mortgage backed securities; e. gold or gold related instruments f. real estate assets as defined in clause (a) of regulation 49A of SEBI (Mutual fund) regulation g. infrastructure debt instrument  and assets as specified in clause (1) of regulation 49L of SEBI (Mutual fund) regulation"
+    },
+    {
+        "Question": "Is there any restriction on mutual funds to invest in a single company?",
+        "Answer": "Investments by mutual funds are subject to investment restrictions. These restrictions are essentially prudential investment norms, most of which are universally followed by mutual funds to ensure portfolio risk diversification.  The schemes are permitted to invest only up to 10% of their net assets in schemes of a single issuer."
+    },
+    {
+        "Question": "What are the eligibility criteria for issue of real estate mutual fund scheme?",
+        "Answer": "A Cer tificate of registration may be granted under regulation 9 to an applicant proposing to launch only real estate mutual fund schemes if he A. has been carrying on business in real estate for a period of not less than five years B. fulfills eligibility criteria provided in regulation 7, except that specified in item (i) of the Explanation to clause (a) thereof"
+    },
+    {
+        "Question": "Do the Mutual funds report NAV of each scheme?",
+        "Answer": "Yes, Mutual funds are required to update the NAV of the scheme and the sale/repurchase prices of their schemes on the AMFI website on a daily basis in case of open -ended schemes."
+    },
+    {
+        "Question": "Can mutual funds borrow funds?",
+        "Answer": "Mutual fu nds can borrow only to meet the temporary liquidity needs for the purpose of repurchase, redemption of units or payment of interest or dividend to the unit holders. Provided that the mutual fund shall not borrow more than 20% of the net asset of the scheme  and the duration of such a borrowing shall not exceed a period of six months. The trustees are required to ensure that borrowing is used as a measure of last resort and determine whether the mutual fund could borrow should be disclosed in the scheme offer"
+    },
+    {
+        "Question": "How are the investors\u2019 grievances being redressed?",
+        "Answer": "Mutual funds need to specify in the offer document the name of the contact person whom unit holders may approach in case of any query, complaints or grievances. The names of the directors of A MC and trustees are also given in the offer documents; and they can also be approached. Historical information about the investors\u2019 complaints and redressal form a part of the offer document."
+    },
+    {
+        "Question": "Can investors approach SEBI with their Grievances?",
+        "Answer": "Yes, Investors can approach SEBI for redressal of their complaints. On receipt of complaints, SEBI takes up the matter with the concerned mutual fund and follows up with them till the matter is resolved. SCORES is an online platform designed to help invest ors to lodge their complaints, pertaining to securities market, online with SEBI against listed companies and SEBI registered intermediaries. All complaints received by SEBI against listed companies and SEBI registered intermediaries are dealt through SCORES .  Page 65 of 73"
+    },
+    {
+        "Question": "Can the Sponsor, Trustee, AMCs or any of their employees advise about any",
+        "Answer": "No, they shall not render, directly or indirectly any investment advice about any security in the publicly accessib le media, whether real \u2013 time or non -real -time, unless a disclosure of his interest including long or short position in the said security has been made, while rendering such advice. If someone does that then he needs to disclose the interest of his depende nt family members and the employer including their long or short position in the said security, while rendering such advice."
+    },
+    {
+        "Question": "To what extent of total NAV, a Mutual fund can invest in the debt instrument of",
+        "Answer": "A mutual fund scheme shall not invest more than 15% of its NAV in debt instruments issued by a single issuer which are rated not below investment grade by a credit rating agency authorized to carry out such activity under the Act. Such investment limit ma y be extended to 20% of the NAV of the scheme with the prior approval of the Board of Trustees and the Board of AMC."
+    },
+    {
+        "Question": "What are mortgage backed securities?",
+        "Answer": "A mortgage -backed security (MBS) is an investment similar to a bond that is made up of a bundle  of home loans bought from the banks that issued them. MBS is a type of asset -backed security. Investors in MBS receive periodic payments similar to bond coupon payments."
+    },
+    {
+        "Question": "Can Mutual Funds invest in derivative instruments?",
+        "Answer": "Yes, MFs can invest in derivative products as prescribed by regulation."
+    },
+    {
+        "Question": "Can Mutual funds invest in unlisted Non -convertible Debentures (NCDs)?",
+        "Answer": "Mutual fund schemes may invest in unlisted Non -Convertible Debentures (NCDs) not exceeding 10% of the debt portfolio of the scheme subject to the condition that such unlisted NCDs have a simple structure."
+    },
+    {
+        "Question": "What percentage of paid up capital of a company c an a Mutual funds hold?",
+        "Answer": "No mutual fund under all its schemes should own more than ten per cent of any company\u2019s paid up capital carrying voting rights.  Page 66 of 73"
+    },
+    {
+        "Question": "Can an investment be switched from one scheme to another scheme of the same",
+        "Answer": "Transfers of investments from one scheme to another scheme in the same mutual fund shall be allowed only if, a. Such transfers are done at the prevailing market price for quoted instruments on spot basis, b. The securities so transferred shall be in conformity with the investment objective of the scheme to which such transfer has been made. From Jan uary  01 2021  interscheme transfers  are not permitted."
+    },
+    {
+        "Question": "Can a scheme invest in another scheme?",
+        "Answer": "A scheme may invest in another scheme under the same AMC or any other mutual fund without charging any fees, provided that aggregate inter -scheme investment made by all schemes under the same management or in schemes under the management of any other AMC shall not exceed 5% of the net asset value of the mutual fund.   A fund of funds (FOF) \u2014also known as a multi -manager investment \u2014is a pooled investment fund that invests in other types of funds.  FOFs usually invests in other mutual funds. Funds of funds tend  to have higher expense ratios than regular mutual funds. The fund of funds (FOF) strategy aims to achieve broad diversification and minimal risk."
+    },
+    {
+        "Question": "Are there any restrictions on Mutual funds to invest in their group company?",
+        "Answer": "Mutual fund scheme shall not make any investment in a. any unlisted security of an associate or group company of the sponsor b. any security issued by way of private placement by an associate or group company of the sponsor c. Listed securities of group companies of the sponsor which is in excess of 25% of the net assets."
+    },
+    {
+        "Question": "What is the restriction for mutual funds on investment in unlisted equity share?",
+        "Answer": "Mutual fund scheme shall not invest more than 5% of its NAV in the unlisted equ ity shares or equity related instruments in case of open -ended scheme and 10% of its NAV in case of close ended scheme."
+    },
+    {
+        "Question": "What are the Investment restrictions related to fund of Funds?",
+        "Answer": "A fund of funds scheme shall be subject to the following investment restrictions: a. A fund of funds scheme shall not invest in any other fund of funds scheme; b. A fund of funds scheme shall not invest its assets other than in schemes of mutual funds, except to the extent of funds required for meeting the liquidity requirements for the purpose of repurchases or redemptions, as disclosed in the offer document of fund of funds scheme. Page 67 of 73"
+    },
+    {
+        "Question": "What are the restrictions on mutual funds to invest in REITs and INVITs?",
+        "Answer": "Mutual funds under all its schemes shall not own more than 10% of units issued by a single issuer of REIT and INVITs. \u2022 A mutual fund scheme shall not invest i. more than 10% of its NAV in the units of REIT and INVITs ii. more than 5% of its NAV in the units of REIT and INVITs issued by a single issuer \u2022 Provided that the limits mentioned in sub -clauses (i) and (ii) above shall not be applicable for investments in case of index fund or sector or industry specific scheme pertaining to REIT and INVITs."
+    },
+    {
+        "Question": "What  are the basic disclosures made by AMFI members?",
+        "Answer": "The basic disclosures made by AMFI members are: \u2022 Members shall ensure timely dissemination to all unit holders of adequate, accurate, and explicit information presented in a simple language about the investment objectives, Investment policies, financial position and general affairs of the scheme. \u2022 Members shall disclose to unit holders investment patterns, portfolio details, ratios of expenses to net assets and total income and portfolio turnover wherever applicable in respect of schemes on an annual basis."
+    },
+    {
+        "Question": "What are the disclosures needed for transactions by Key personnel?",
+        "Answer": "All transactions of purchase and sale of securities by key personnel who a re directly involved in investment operations shall be disclosed to the compliance officer of the member at least on half yearly basis."
+    },
+    {
+        "Question": "What are the Ope rational ethics that needed to be followed by Members?",
+        "Answer": "The Operational ethics that needed to be followed by Members are, \u2022 Members shall avoid conflicts of interest in managing the affairs of the schemes and shall keep the interest of all unit holders paramount in all matters relating to the scheme \u2022 Members shall not engage in any act, practice or course of business in connection with the purchase or sale, directly or indirectly, of any security held or to be acquired by any scheme managed by the  Members, and in purchase, sale and redemption of units of schemes managed by the Members, which is fraudulent, deceptive or manipulative. \u2022 Members shall not, in respect of any securities, be party to - a. creating a false market b. price rigging or manipulation c. passing of price sensitive information to brokers, Members of stock exchanges and other players in the capital markets or take action which is unethical or unfair to investors Page 68 of 73 \u2022 Employees, officers and directors of the Members shall not work as agents/ broker s for selling of the schemes of the Members, except in their capacity as employees of the Member or the Trustee Company. \u2022 Members shall avoid excessive concentration of business with any broking firm, and excessive holding of units in a scheme by few person s or entities."
+    },
+    {
+        "Question": "What is front running?",
+        "Answer": "Front -running is trading stock or any other financial asset by a broker who has inside knowledge of a future transaction that is about to affect its price substantially. This exploitation of information that is not yet public is illegal and unethical."
+    },
+    {
+        "Question": "What is the regulation regarding Front -running and self -dealing?",
+        "Answer": "No Members or any of their directors, officers or employees shall not indulge in front running or self -dealing, buying or selling of any securities ahead of transaction of the fund, with access to information regarding the transaction which is not public and which is material to making an investment decision, so as to derive unfair advantage."
+    },
+    {
+        "Question": "Who cannot be a trustee?",
+        "Answer": "An asset management company or any of its officers or employees are not be eligible to act as a trustee of any mutual fund. Further, no person who is appointed as a trustee of a mutual fund can be appointed as a trustee of any other mutual fund unless - such a person is an independent trustee and he /she has taken prior approval of the mutual fund of which he is a trustee."
+    },
+    {
+        "Question": "What is the regulation for Independent trustees?",
+        "Answer": "Two thirds of the trustees shall be independent persons. They shall not be associated with the sponsors in any manner. Page 69 of 73"
+    },
+    {
+        "Question": "Who is accountable for the funds?",
+        "Answer": "The trustees are accountable for the funds and property of the schemes."
+    },
+    {
+        "Question": "What processes should the trustee ensure before the launch of any scheme?",
+        "Answer": "The trustees shall ensure before the launch of any scheme that the asset management company has: \u2022 Systems in place for its back office, dealing room and accounting; appointed all key personnel including fund manager(s) for the scheme(s) \u2022 Appointed auditors to audit its accounts; \u2022 Appointed a compliance officer \u2022 Appointed registrars and laid down parameters for their supervision; \u2022 Prepared a compliance manual and designed internal control mechanisms including internal audit systems; \u2022 Specif ied norms for empanelment of brokers and marketing agents."
+    },
+    {
+        "Question": "What is the responsibility of a Compliance officer?",
+        "Answer": "A compliance officer is responsible for monitoring the compliance of the Act, rules and regulations, notifications, guidelines instructions etc. issued by SEBI or the Central Government and for redressal of investors' grievances."
+    },
+    {
+        "Question": "What measures should t he trustee take with the AMC with respect to brokers?",
+        "Answer": "The trustees shall ensure that an asset management company has been diligent in empanelling the brokers in monitoring securities transactions and avoiding undue concentration of busine ss with any broker ."
+    },
+    {
+        "Question": "What measures should the trustee take with the AMC with respect to associates?",
+        "Answer": "The trustees shall ensure that the asset management company has not given any undue or unfair advantage to any associates or dealt with any of the associates of the asset management company in any manner detrimental to interest of the unit holders."
+    },
+    {
+        "Question": "What measures should the trustee take with the AMC with respect to",
+        "Answer": "The trustees shall ensure that the transactions entered into by the asset management company are in accordance with these regulations and the scheme. The trustees shall en sure that all the activities of the asset management company are in accordance with the provisions of these regulations."
+    },
+    {
+        "Question": "What measures should the trustee take with the AMC with respect to",
+        "Answer": "The trustees shall ensure that the ass et management company has been managing the mutual fund schemes independently of other activities and have taken adequate steps to ensure that the interest of investors of one scheme are not being compromised with those of any other scheme or of other acti vities of the asset management company."
+    },
+    {
+        "Question": "What powers does a trustee have over the AMC with respect to conduct of",
+        "Answer": "Where the trustees have reason to believe that the conduct of business of the mutual fund is not in accordance with these regulations and the scheme, they shall forthwith take such remedial steps as are necessary by them and shall immediately inform SEBI of the violation and the action taken by them."
+    },
+    {
+        "Question": "Who is responsible for filing calculations for income of a fund?",
+        "Answer": "The trustees shall be responsible for the calculation of any income due to be paid to the mutual fund and also of any income received in the mutual fund for the holders of the units of any scheme in accordance with these regulations and the trust deed. Each trustee shall file the details of his transactions of dealing in securities with the mutual fund on a quarterly basis.  But in practice AMC is responsible for this."
+    },
+    {
+        "Question": "What is an Asset Management Company?",
+        "Answer": "The asset management company carries out the business of the mutual fund. The asset management company shall not undertake any other business activities."
+    },
+    {
+        "Question": "What are the exceptions to the business activities taken up by the AMC?",
+        "Answer": "The AMC shall not undertake any other business activities except activities in the nature of [portfolio management services] management and advisory services to offshore funds, pension funds, provident funds, v enture capital funds, management of insurance funds, financial consultancy and exchange of research on commercial basis, if any of such activities are not in conflict with the activities of the mutual fund."
+    },
+    {
+        "Question": "Who appoints the Asset Management Company?",
+        "Answer": "The asset management company is appointed by the sponsor or if so, authorized by the trust deed, the trustee."
+    },
+    {
+        "Question": "What do AMC get for managing the money of the unit holders?",
+        "Answer": "AMC earns a fee for managing the funds of the investors. The fee is defined as a percent age of the funds managed by the asset management company. The fee is charged to the scheme within the ceiling prescribed by SEBI."
+    },
+    {
+        "Question": "Who can be a custodian of a Mutual Fund?",
+        "Answer": "A bank or a Company meeting the eligibility criteria can be a custodian.  An entity registered  as custodian with SEBI can be custodian."
+    },
+    {
+        "Question": "What are the functions of a custodian?",
+        "Answer": "The mutual fund shall appoint a custodian to hold the fund\u2019s securities in safekeeping, settles securities transactions for the fund, collects interest and dividends paid on securities, and records information on stock splits and other corporate actions."
+    },
+    {
+        "Question": "What is the role of Registrar and Transfer Agent?",
+        "Answer": "R&TA maintains records of the unit holders\u2019 account."
+    },
+    {
+        "Question": "Can a fund hire an independent party to be Registrar and Transfer Agent?",
+        "Answer": "A fund may choose to hire an independent third party who is registered with the SEBI to provide such services or carryout these activities in house ."
+    },
+    {
+        "Question": "What is the purpose of the Registrar and Transfer Agent in the fund?",
+        "Answer": "The registrar and transfer agent forms the most vital interface between the unit holders and mutual fund. Most of the communication between these two parties takes place through registrar and transfer agent."
+    },
+    {
+        "Question": "What is the role of Distributors or Agents?",
+        "Answer": "To reach their products across the length and breadth of the country, mutual funds take the services of distributors/agents."
+    },
+    {
+        "Question": "Who can be distributors or agents?",
+        "Answer": "Distributors comprises of banks, non -banking financial companies and other distributi on companies. Individuals constitute the agency force.     ******"
+    }
+]
