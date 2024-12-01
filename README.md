@@ -13,7 +13,7 @@ Our product addresses all these problems by providing a simple Conversational Ag
 
 Currently we are supporting Mutual Fund product on our Financial Advisor platform.
 
-# Prerequisites
+# Prerequisites to Run the project
 * Create vitual environment on your system (for Windows)
     ```
     cd 06_chat_using_langgraph
@@ -84,6 +84,25 @@ Currently we are supporting Mutual Fund product on our Financial Advisor platfor
         ```
 <br>
 <br>
+
+# Prerequisites to generate Embeddings in ChromaDB
+* Create vitual environment on your system (for Windows)
+    ```
+    cd 02_embedding
+    python -m venv venv
+    cd venv
+    cd scripts
+    activate
+    cd..
+    cd..
+
+    pip install -r requirements.txt
+
+    python 01_generate_embedding.py
+    ```
+<br>
+<br>
+
 
 # Questions
 
