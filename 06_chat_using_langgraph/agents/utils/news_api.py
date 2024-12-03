@@ -17,7 +17,7 @@ class FinancialAdvisor:
         self.mf_analyzer = MutualFundNewsAnalyzer(news_api_key)
         # openai.api_key = openai_api_key
         # self.client = OpenAI(api_key=openai_api_key)
-        os.environ["OPENAI_API_KEY"] = openai_api_key
+        # os.environ["OPENAI_API_KEY"] = openai_api_key
 
     def get_financial_advice(self, user_query, scheme_code=None):
         """
