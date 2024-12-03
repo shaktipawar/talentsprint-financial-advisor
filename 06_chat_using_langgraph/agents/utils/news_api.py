@@ -585,7 +585,7 @@ if __name__ == "__main__":
     #     analyzer.print_report_summary(report)
     #     print(f"\nDetailed report has been saved to JSON file")
 
-    OPENAI_API_KEY = "sk-sfTHHaLfmuvq-BCqb2-n9le1N3BBunHKDAgOkMaDFJT3BlbkFJpKuD7tqSjaIAFFlxOL2xM97GqqmH3Z3olfpJ-dP60A"
+    OPENAI_API_KEY = ""
     advisor = FinancialAdvisor(NEWS_API_KEY, OPENAI_API_KEY)
 
     query = "I'm considering investing in this fund for long-term wealth creation. What should I consider?"
