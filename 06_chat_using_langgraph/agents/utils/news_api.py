@@ -106,13 +106,13 @@ class FinancialAdvisor:
             context.append(f"Average Sentiment Score: {cat_sentiment['average_score']:.2f}")
         
         # Add recent news headlines
-        context.append("\nRecent Fund House News:")
-        for article in report.get('fund_house_news', [])[:3]:
-            context.append(f"- {article['title']} ({article['sentiment']['sentiment']})")
+        # context.append("\nRecent Fund House News:")
+        # for article in report.get('fund_house_news', [])[:3]:
+        #     context.append(f"- {article['title']} ({article['sentiment']['sentiment']})")
         
-        context.append("\nRecent Category News:")
-        for article in report.get('category_news', [])[:3]:
-            context.append(f"- {article['title']} ({article['sentiment']['sentiment']})")
+        # context.append("\nRecent Category News:")
+        # for article in report.get('category_news', [])[:3]:
+        #     context.append(f"- {article['title']} ({article['sentiment']['sentiment']})")
         
         return "\n".join(context)
 
@@ -126,7 +126,7 @@ class FinancialAdvisor:
             # Analyze each fund in the portfolio
             for scheme_code in scheme_codes:
                 report = self.mf_analyzer.analyze_fund_and_news(scheme_code)
-                print(report)
+                # print(report)
                 if report:
                     portfolio_context.append(self._prepare_fund_context(report))
             

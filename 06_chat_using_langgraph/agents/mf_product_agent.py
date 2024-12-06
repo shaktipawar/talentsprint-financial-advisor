@@ -141,8 +141,8 @@ class MF_Products_Agent(Agent):
 
         print(scheme_codes)
 
-        NEWS_API_KEY = "a4fa3195e0c04cd9a0b139c578862932"
-        OPENAI_API_KEY = "sk-sfTHHaLfmuvq-BCqb2-n9le1N3BBunHKDAgOkMaDFJT3BlbkFJpKuD7tqSjaIAFFlxOL2xM97GqqmH3Z3olfpJ-dP60A"
+        NEWS_API_KEY = "f0e8a71822dc40f1b1c82a487f5605b7"
+        OPENAI_API_KEY = ""
 
         advisor = FinancialAdvisor(NEWS_API_KEY, OPENAI_API_KEY)
         portfolio_advice = advisor.get_portfolio_advice(scheme_codes, question)

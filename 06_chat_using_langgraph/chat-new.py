@@ -38,7 +38,12 @@ def initialize_session_state():
 
 def get_response(message: str, settings: Dict):
     iteration = 40
-    dict_inputs = {"question": message + ' ' + json.dumps(settings)}
+    filtered_settings = {k: v for k, v in settings.items() if v}
+
+    dict_inputs = {"question": message}
+    if filtered_settings:
+        dict_inputs["question"] += ' ' + json.dumps(filtered_settings)
+
     limit = {"recursion_limit": iteration}
 
     response_text = ""
