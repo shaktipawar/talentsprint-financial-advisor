@@ -13,6 +13,35 @@ Our product addresses all these problems by providing a simple Conversational Ag
 
 Currently we are supporting Mutual Fund product on our Financial Advisor platform.
 
+
+#  Here's a visualization of the current flow implemented using langgraph:
+
+The graph implements a decision tree where a Router Agent first determines which specialized agent (MF FAQ or MF Products) should handle the user's question, then routes it accordingly.
+After the chosen agent processes the query, a Reviewer Agent validates the response and either sends it to Output for final formatting or back to Router if more information is needed - but only one specialized agent handles the query at a time.
+
+
+
+
+                    ┌─────────┐
+                    │ Router  │
+                    └────┬────┘
+                         │
+           ┌────────────┴───────────┐
+           │                        │
+    ┌──────▼─────┐          ┌──────▼─────┐
+    │   MF FAQ   │          │ MF Products│
+    └──────┬─────┘          └──────┬─────┘
+           │                        │
+           └────────────┬──────────┘
+                       │
+                ┌──────▼─────┐
+                │  Reviewer  │
+                └──────┬─────┘
+                      │
+                ┌─────▼─────┐
+                │  Output   │
+                └───────────┘
+
 # Prerequisites to Run the project
 
 * Install SQLServer Database
