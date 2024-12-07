@@ -13,7 +13,40 @@ Our product addresses all these problems by providing a simple Conversational Ag
 
 Currently we are supporting Mutual Fund product on our Financial Advisor platform.
 
+
+#  Here's a visualization of the current flow implemented using langgraph:
+
+The graph implements a decision tree where a Router Agent first determines which specialized agent (MF FAQ or MF Products) should handle the user's question, then routes it accordingly.
+After the chosen agent processes the query, a Reviewer Agent validates the response and either sends it to Output for final formatting or back to Router if more information is needed - but only one specialized agent handles the query at a time.
+
+
+
+
+                    ┌─────────┐
+                    │ Router  │
+                    └────┬────┘
+                         │
+           ┌────────────┴───────────┐
+           │                        │
+    ┌──────▼─────┐          ┌──────▼─────┐
+    │   MF FAQ   │          │ MF Products│
+    └──────┬─────┘          └──────┬─────┘
+           │                        │
+           └────────────┬──────────┘
+                       │
+                ┌──────▼─────┐
+                │  Reviewer  │
+                └──────┬─────┘
+                      │
+                ┌─────▼─────┐
+                │  Output   │
+                └───────────┘
+
 # Prerequisites to Run the project
+
+* Install SQLServer Database
+* Create table and load mutualfund data using the script DB_Script_TBL_MF_Product.sql under 01_dbscript
+  
 * Create vitual environment on your system (for Windows)
     ```
     cd 06_chat_using_langgraph
@@ -80,7 +113,7 @@ Currently we are supporting Mutual Fund product on our Financial Advisor platfor
         cd..
         cd..
 
-        chainlit run chat.py
+        streamlit run chat-new.py
         ```
 <br>
 <br>
@@ -137,8 +170,8 @@ Which are the FDs giving least returns in 4 years and should be avoided.
 * What is Open-ended Fund/Scheme ?
 * What is the history of Mutual Funds in India and role of SEBI in mutual funds industry?
 * How is a mutual fund set up?
-* Growth/Equity Oriented Scheme (This question comes under Domain and Product both.)
-* Money Market or Liquid Schemes
+* What are Growth/Equity Oriented Scheme (This question comes under Domain and Product both.)
+* What are Money Market or Liquid Schemes
 * What are Exchange Traded Funds (ETFs)? (This question went to MDF Product Agent, and needs a fix.)
 * When will the investor get statement of account after investing in a mutual fund and\nwhat is a consolidated account statement (CAS)?
 * What is application supported by blocked amount (ASBA)? (Router is unable to route this question to MFFAQ Agent, and needs a fix. DONE)

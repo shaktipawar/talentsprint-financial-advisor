@@ -7,7 +7,7 @@ from decimal import Decimal
 import simplejson as json
 from datetime import date, datetime
 from helper import Helper, MessageType
-
+from agents.utils.news_api import FinancialAdvisor
 
 import openpyxl
 from openpyxl.utils.dataframe import dataframe_to_rows
@@ -39,7 +39,7 @@ class MF_Products_Agent(Agent):
         
         return self.state
         
-    def product_logic(self, question):
+    def product_logic_old(self, question):
 
         #GENERATE QUERY
         system_prompt_query = mf_product_template.template2.format(
@@ -107,6 +107,92 @@ class MF_Products_Agent(Agent):
             retVal = {"next_agent" : "reviewer",  "response" : json_object["response"]}
         
         return retVal
+
+    def product_logic(self, question):
+
+        #GENERATE QUERY
+        system_prompt_query = mf_product_template.template2.format(
+            Placeholder1 = mf_product_template.reference_table_schema,
+            Placeholder2 = mf_product_template.reference_column_details)
+        
+        message_query = [
+            {"role" : "system", "content" : system_prompt_query},
+            {"role" : "user", "content" : f"User Question : {question}"}
+        ]
+
+        Helper.print(MessageType.PROMPT_MESSAGE, "PROMPT FOR SQL QUERY", message_query)
+
+        response = self.chatllm.invoke(message_query) # response is in string format (but valid json inside).
+        query_json = json.loads(response.content) # converts to json.
+        sql_query = MF_Product_Tools.clean_query(query_json["sql_query"]) # fetch sql_query from it.
+        
+        Helper.print(MessageType.TEXT_LOG, "SQL QUERY", sql_query)
+
+        #GENERATE DATA FROM QUERY
+        data = MF_Product_Tools.fetch_data_from_sql(sql_query)
+        Helper.print(MessageType.TEXT_LOG, "DB RECORDS", data)
+
+        # Extract scheme codes from data
+        scheme_codes = []
+        for result_set in data:
+            for record in result_set:
+                if 'Code' in record:  # Make sure 'code' exists in the record
+                    scheme_codes.append(str(record['Code']))  # Convert to string to ensure compatibility
+
+        print(scheme_codes)
+
+        NEWS_API_KEY = "f0e8a71822dc40f1b1c82a487f5605b7"
+        OPENAI_API_KEY = ""
+
+        advisor = FinancialAdvisor(NEWS_API_KEY, OPENAI_API_KEY)
+        portfolio_advice = advisor.get_portfolio_advice(scheme_codes, question)
+
+        print(portfolio_advice)
+
+        dataset_string = ""
+        for index, item in enumerate(data,1):
+            dataset_string += f"""
+        
+            Database Resultset {index}:
+            {json.dumps(item[:5], default = MF_Product_Tools.custom_serializer)}
+
+            """
+        dataset_string = " ".join(dataset_string.strip().split())
+
+
+        #GENERATE INSIGHITS RESPONSE FROM DATA
+        r_response = "EMPTY"
+        if(len(self.state["reviewer_response"]) > 0):
+            r_response = self.state["reviewer_response"][-1].content
+
+        system_prompt_insights = mf_product_template.template3.format(
+            Placeholder1 = dataset_string,
+            Placeholder2 = portfolio_advice,
+            Placeholder3 = r_response)
+
+        message_insights = [
+            {"role" : "system", "content" : system_prompt_insights},
+            {"role" : "user", "content" : f"** User Question ** : {question}"}
+        ]
+
+        Helper.print(MessageType.PROMPT_MESSAGE, "PROMPT FOR INSIGHTS", message_insights)
+
+        response = self.chatllm.invoke(message_insights) # response is returned in string (but valid json)
+        json_object = json.loads(response.content) # convert string to json
+
+        #GENERATE CSV FILE WITH DATA
+        retVal = ""
+
+        if data:
+            file_name = f"{str(uuid.uuid4())}.xlsx"
+            MF_Product_Tools.write_multiple_sheets_to_excel(data, file_name)
+            anchor_tag = f'<a href = "http://localhost:5000/download/{file_name}">Download</a>'
+            retVal = {"next_agent" : "reviewer",  "response" : json_object["response"] + "\n\n" + f"Reference File : {anchor_tag}" }
+            
+        else:
+            retVal = {"next_agent" : "reviewer",  "response" : json_object["response"]}
+        
+        return retVal
     
 class MF_Product_Tools():
 
@@ -126,7 +212,7 @@ class MF_Product_Tools():
         try:
             connection_string = (
                 'Driver={ODBC Driver 17 for SQL Server};'
-                'Server=DESKTOP-RQN38R0;'
+                'Server=sai;'
                 'Database=Mutual_Funds;'
                 'UID=sa;'
                 'PWD=mssql@123;'
@@ -196,7 +282,7 @@ class MF_Product_Tools():
             cwd = os.getcwd()
             
             # Create the 'assets' folder path
-            assets_folder = os.path.join(cwd, '06_chat_using_langgraph','assets')
+            assets_folder = os.path.join(cwd, '','assets')
             
             # Ensure the 'assets' folder exists
             os.makedirs(assets_folder, exist_ok=True)
